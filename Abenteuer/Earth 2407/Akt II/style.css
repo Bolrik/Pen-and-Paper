@@ -1,0 +1,98 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+li {
+  margin-right: 20px;
+}
+
+li:last-child {
+  margin-right: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+a:hover {
+  color: #555;
+}
+
+.tab-content {
+  display: none;
+}
+
+.tab-content.active {
+  display: block;
+}
+
+.tab-content h2 {
+  margin-top: 0;
+}
+
+.form-section {
+  margin-bottom: 20px;
+}
+
+label {
+  font-weight: bold;
+}
+
+.form-section input {
+  width: 50px;
+}
+
+#skills-container div {
+  margin-bottom: 10px;
+}
+
+#add-skill {
+  display: block;
+  margin: 10px auto;
+  padding: 8px 20px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+#add-skill:hover {
+  background-color: #45a049;
+}
+
+/* Der restliche CSS bleibt unverändert ... */
+
+.status-bar {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+}
+
+.status-bar p {
+  margin: 5px;
+}
+
+.status-bar span {
+  font-weight: bold;
+}

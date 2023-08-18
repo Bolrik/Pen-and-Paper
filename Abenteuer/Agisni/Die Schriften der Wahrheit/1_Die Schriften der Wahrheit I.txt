@@ -1,0 +1,403 @@
+Kapitel 1: Der Anfang vom Ende
+Agisni... Eine Welt voller Wunder und technologischem Fortschritt. Ein jeder kann 
+hier ganz einfach zu Ruhm und Ehre gelangen. Die Zivilisation so aufbauen, wie man 
+es sich in den kühnsten Träumen nicht hätte vorstellen können. 
+So oder so ähnlich habt Ihr den Flyer vor Augen, mit dem man Euch damals auf diesen 
+Gott verlassenen Planeten warb. 
+Doch, vollständig gelogen waren diese Worte nicht. Ganz im Gegenteil. Technologisch 
+ist es hier im Vergleich zur Erde wirklich eine Wunderwelt. Die Raumfahrt ist ein 
+ständiger Begleiter des Alltags geworden. Fahrzeuge fahren nicht mehr auf dem 
+Boden, sondern schweben durch die Luft. Oft finden Auktionen über neue Asteroiden 
+statt, die nah genug kommen um, wie man hier sagt, "geräumt" zu werden. Aber das, 
+ist nur für die gehobene Gesellschaft. Die oberen 1%. Doch alles andere...
+
+Sklaverei, oder wie man es gerne nennt, Lebensdienst steht an der Tagesordnung. 
+Ganz offiziell von der Regierung erlaubt. Es soll den Armen helfen an Geld zu 
+kommen. 
+Doch wer einmal sein Lebensband abgibt, schafft es nur sehr selten wieder auf die 
+eigenen Beine. 
+Doch jetzt hat es auch Euch erwischt. Noch... leuchtet Euer Lebensband am Handgelenk 
+grün.
+
+
+! Ein jeder von Euch steht vor seiner Wohnung in Neumannsburg, der Hauptstadt. 
+Traurig schaut Ihr Euren wenigen Habseligkeiten hinterher die gerade konfisziert 
+werden denn wieder konntet Ihr die viel zu hohe Miete nicht zahlen. Wobei dies noch 
+mit die günstigste Wohnung im Braunscheinviertel war. Ihr steht auf der Straße und 
+habt lediglich den Brief von gestern Abend, die nötigsten Klamotten und {2W100} 
+MiCs dabei.
+
+? Den Brief lesen:
+! Grob zusammengefasst verspricht Euch der Inhalt des Briefes den Erlass Eurer 
+restlichen Schulden und bietet zusätzlich einen Haufen an Credits. Allerdings 
+fordert man dafür den Lebensdienst bis Ihr eine ‚geheime' Aufgabe erfüllt habt. 
+Ihr habt die einmalige Chance am heutigen Tag dieses Angebot anzunehmen. Das 
+Taxi das Euch abholen soll, müsste in wenigen Minuten eintreffen.
+
+# Noch nie hast Du Dir ein Taxi leisten können und dieser Unbekannte zahlt Dir 
+sogar die Anfahrt
++ Die Spieler können sich auf dem Weg untereinander vorstellen
+! Auf dem Weg zum Ziel seht Ihr mehrere Menschen mit einem roten Lebensband welche 
+aus Geschäften geschmissen oder dem Stadtschutz übergeben werden. Kurz vor einer 
+Schichttransferzone seht ihr sogar, dass ein Lebensdiener von mehreren Personen aus 
+einem Lokal gezerrt und dort verprügelt wird. Die restliche Fahrt über passiert Ihr 
+3 weitere Schichttransferzonen und nach einer Weile erreicht Ihr ein nobles Haus 
+welches im oberen Drittel der Stadt angesiedelt ist. Vor dem Eingang stehen zwei 
+Muskelbepackte Wachleute jeweils mit einem Phaser ausgestattet. Beide haben das 
+Auto ziemlich genau im Blick und schauen grimmig in Eure Richtung als Ihr 
+aussteigt.
+
+? Anklopfen / Klingeln etc.
+! Nach einem kurzen Augenblick öffnet Euch ein Lebensdiener.
++ Die Spieler werden bereits erwartet
+! Der Diener dreht sich um und signalisiert, dass Ihr Ihm folgen sollt. 
+
+? Folgen
+! Ihr folgt dem Diener durch verschiedene Flure. Wenn ihr ab und an in versch. 
+Räume reinschaut seht Ihr unter anderem einen Trophäenraum mit verschiedenen 
+Auszeichnungen, antiken Gebilden und ausgestopften Tieren.
+! Letztlich gelangt Ihr in eine riesige Bibliothek die wohl Unmengen an Wissen 
+birgt. Direkt vor Euch seht ihr ein sehr nobles aber fast schon rustikal 
+wirkendes Sofa welches vor einem prunkvollen Schreibtisch steht. Am Schreibtisch 
+sitzt ein Mann mit Zylinder der gerade vertieft in einem Buch liest.
+Ihr werdet gebeten Euch zu setzen. 
+
+! Nach einem kurzen Augenblick erhebt sich die Person. 
+"Ich habe von Ihrer brenzliche Situation mitbekommen. Waren sie doch immer fleißige 
+Arbeiter. Aber entschuldigt, ich bin Richard von Dunkelau. Ein Edelmann der 
+Wissenschaft."
++ Richard unterschlägt Ihnen das Angebot so lange in seinen Dienst über zu gehen 
+bis sie ein seltenes Artefakt gefunden haben.
++ Bei dem Artefakt handelt es sich um ein Buch welches eine Vielzahl an geheimen 
+Formeln und Blaupausen beinhaltet. Es wurde damals von der Kirche erworben, ist 
+aber vor gut 2 Wochen aus deren Besitz entwendet worden.
+ 
+! Angeblich hat ein Schmuggler aus der Gosse (Unterstadt) weitere Informationen 
+über den Aufenthalt des Buches. Leider konnte Richard diesen nicht aufspüren. Der 
+Name des Schmugglers ist Silberzunge. 
++ Einem zufälligen Spieler ist dieser Name bekannt
+# In Unterstadt hast Du mal einige Personen in einer Kneipe über Silberzunge 
+reden hören. Es ging darum, dass er in großen Schwierigkeiten sei weil er die 
+falsche Ware geschoben hat. Der Name der Kneipe war ‚Der Braune Säufer'
+
++ Nach dem Gespräch werden die Spieler aus dem Haus geführt. Haben Sie dem Dienst 
+zugestimmt, wird vor dem Ausgang noch der ‚Transfer' vollzogen und sie gehen in den 
+Dienst von Richard über. Ihre Lebendsbänder färben sich daraufhin rot und in vielen 
+Lokalen der Stadt der unteren Schichten werden sie nicht mehr willkommen sein.
+? Wurde der Lebensdienst angenommen:
+	+ Im Anschluss wird ein Taxi gerufen welches die Spieler nach Unterstadt bringt.
+
+? Nachfragen nach Unterstützung:
+	! Richard überträgt jedem von Euch 1 Credit auf Euer Band.
+
+
+In Unterstadt
+! Das Taxi hält vor einem ziemlich herunter gekommenen alten Theater. Dennoch seht 
+Ihr wie gerade eine Gruppe von mehreren Personen aus diesem heraus kommt. Generell 
+ist es hier unten ziemlich düster. Licht gibt es, dank der über Euch liegenden 
+Ebenen, nur von Straßenlaternen, sofern es überhaupt welche gibt die noch 
+funktionieren. Das Bild ähnelt einer verlassenen Stadt bei Dämmerung. Um Euch herum 
+spicken Stützpfeiler die Umgebung an welchen sich oft Kameras befinden die die 
+Umgebung absuchen.
+
+! Als das Taxi Euch raus lässt und abfährt, bemerkt Ihr beim Umsehen, wie Ihr von 
+mehreren Personen mit fiesem Blick angeschaut werdet. Auch glaubt ihr verschiedene 
+Sprüche wie ‚Was wollen diese Leblosen denn hier' und ähnliches zu hören.
+
+! Generell scheint die Stimmung ziemlich rau und an verschiedenen Geschäften seht 
+Ihr Schilder mit der Aufschrift ‚Leblose unerwünscht'. Es wird schwierig sein hier 
+gewillte Ansprechpartner zu finden.
+
++ Die Spieler werden in Unterstadt nicht sehr wohlwollend empfangen. Die Bewohner 
+sind hier gegen ‚Leblose (Lebensdiener)' eher negativ eingestellt.
++ Je nach Aktion der Spieler kann es vorkommen, dass die Spieler von bewaffneten 
+feindseligen Gruppen angegriffen werden wobei diese nur deren Credits wollen.
++ Unbewaffnet ist es ratsam, dass sie hier keinen Krawall anfangen
+
+$ Ziel sollte es erst mal sein die Kneipe zu finden, in der damals über Silberzunge 
+geredet wurde.
+
+? Rumfragen
++ Viele Personen entgegnen den Spielern wegen des Lebensdienstes eher abweisend 
+aggressiv. Sie können die Personen aber bestechen oder ähnliches versuchen.
++ Aggressive Handlungen erhöhen die Chance eines Überfalls und bringen den 
+‚Angegriffenen' ggf. selbst dazu aggressiv vor zu gehen.
+
+! Nach etwas längerem umherlaufen hört Ihr Hilfe-Schreie aus eine der Gassen. Es 
+hört sich so an als sei eine Frau in Gefahr.
++ Gehen sie diesem nach finden sie schnell eine Frau die gerade von zwei Männern 
+überfallen wird. Einer der Männer hat ein Messer am Gürtel. Auffällig ist, dass die 
+Frau kein Rotes Band trägt.
+	+ Wurde der Frau geholfen, gibt sie den Spielern jeweils 20 MiCs
+
+? Die Kneipe gefunden:
+! Ihr steht vor einem, für diese Gegend eher hochwertigem Gebäude. Kein Wunder 
+das hier her auch gelegentlich Bewohner der etwas höheren Schichten kommen. Das 
+Bier ist günstiger als es weiter oben der Fall ist und die Gesellschaft nicht 
+ganz so schlimm. Dennoch fällt direkt das Schild mit der Aufschrift ‚Achtet auf 
+Euch, Leblose!' auf.
+Scheinbar sind auch hier die Lebensdiener nicht von hohem Ansehen aber nichts 
+desto trotz seht Ihr wie ein andere Lebensdiener gerade seelenruhig die Kneipe 
+verlässt. Auf der Gegenüberliegenden Straßenseite seht ihr zudem ein Schild mit 
+der Aufschrift ‚Busgleiter'.
+! Nahe der Tür seht ihr ein Kind, welches auf dem Boden sitzt und dem Anschein 
+nach bettelt.
+
+In der Kneipe
+! Ihr betretet die vermeintliche Kneipe in der Ihr schon mal von Silberzunge gehört 
+habt. Viele der Anwesenden tragen ein grünes Band. Nur sehr wenige haben dem Dienst 
+zugestimmt und vertreiben sich das bisschen Freizeit das sie noch haben. Aber 
+gerade die sind es die Euch mehr Beachtung schenken als die Anderen.
+
++ In der Kneipe besteht die Möglichkeit Nahrung oder ähnliches zu kaufen. Der 
+Besitzer selbst ist aber sehr unfreundlich und verkauft den Spielern jegliche Ware 
+für das doppelte.
+
++ Nach einer Weile kommt eine Gruppe von 3 bewaffneten Stadtschutz-Beamten. Diese 
+entgegnen den Anwesenden gegenüber eher abwertend. Den ‚Lebensdienern' hingegen 
+sind sie freundlich gegenüber. Was aber auch die Stimmung der ‚Nicht-Diener' gegen 
+die Beamten und den Lebensdienern verschlechtert.
++ Die Beamten Fragen mit rauem Ton allgemein in den Raum nach Silberzunge und 
+bieten 10 MiCs für hilfreiche Tipps.
++ Tragen die Spieler sichtlich Waffen wird ein Lizenzcheck über deren Lebensband 
+durchgeführt.
+
+Die Kneipe verlassen
+! Ihr tretet ins Freie und seht direkt einen ‚Lamium Adler Model 2', einen der 
+Gleiter die vom Stadtschutz verwendet werden. Dieser wurde von den Beamten vor dem 
+Haus gelandet.
+
++ Nach ein paar Augenblicken:
+! Ihr macht ein paar Schritte und hört ein für diese Stadt eher untypisches 
+Geräusch. Hinter der Kneipe vernehmt ihr ganz klare Geräusche von Quietschenden 
+Reifen, so als ob es jemand sehr eilig hätte.
++ Kann auch vorher entdeckt werden
+
+? Hinters Haus rennen:
+	! Tatsächlich! Als Ihr um die Ecke kommt seht ihr in der Ferne ein Auto 
+davonrasen.
+	Ihr meint auf dem Nummernschild ‚Silver' gelesen zu haben.
+	In die Richtung müsste das Braunschlammviertel liegen.
+	? Probe auf Ortskenntnis: 
+Erfolg: ! Das ist wiederum ziemlich merkwürdig, da der Boden dort nur teilweise 
+befestigt ist und viele Kanäle hindurch laufen. Das passieren mit einem 
+bereiften Fahrzeug dürfte ziemlich schwierig sein! Zudem ist es dort auch 
+Wahrscheinlich das toxische Geysire an die Oberfläche treten.
+
++ Nach wenigen Augenblicken werden auch die Beamten aus der Kneipe gestürmt kommen. 
+Sie werden die Spieler nach Hinweisen fragen und ggf. die Verfolgung aufnehmen.
++ Ggf. kann der Gleiter mit entsprechenden Fertigkeiten gehackt und kurzgeschlossen 
+oder sabotiert werden.
++ Sollten, warum auch immer, die Beamten sterben so treffen in wenigen Minuten 
+weitere schwer bewaffnete Beamte ein die den gesamten Bereich abriegelt. Diese 
+melden sich mit immer lauter werdenden Sirenen an.
++ Je nach Verhalten werden die Spieler verdächtigt und in eine Polizeistation 
+gebracht. Sollte das passieren werden sie, sofern sie den Lebensdienst 
+eingegangen sind, nach geraumer Zeit von Richard ausgelöst, da der 
+Dienstnehmende bei Gefangennahme kontaktiert wird. Dieser wird fortan den 
+Spieler etwas negativer gegenüberstehen was sich am Ende auf das Ergebnis 
+auswirken könnte.
+
++ Es gibt die Möglichkeit mit einem Busgleiter durch die Gegend und zum 
+Braunschlammviertel zu fahren. Die Fahrt kostet je nach Strecke 5 MiCs aufwärts. 
+Wenn sie sagen, dass der Dienstnehmende übernimmt, wird das ohne Nachfrage vom 
+Busfahrer akzeptiert. Dadurch verschlechtert sich aber der Ruf zu Richard da so 
+etwas nicht abgesprochen war.
+
+
+
+
+ 
+Kapitel 2: Durch und durch, ... Schlamm
+! Im Braunschlammviertel angekommen habt Ihr einen extrem moderigen und nach Abfall 
+riechenden Ort vor Euch. Überall wo etwas Licht, von den wenigen Lampen die es dort 
+gibt, das Dunkel erhellt seht Ihr entweder Dreckwasser, Abfallhaufen oder 
+irgendwelche Wartungsgebäude. Sporadisch könnt Ihr einige Menschen erkennen die 
+trotz der Gefahren hier leben. Ein paar Meter vor Euch hört ihr aus dem Boden ein 
+zischen welches langsam immer lauter wird.
+
++ Nach einem kurzen Augenblick stößt aus dem zischenden Boden ein toxischer Geysir. 
+Sollten die Spieler zu nah sein erleiden sie Schaden und ggf. eine Vergiftung oder 
+Verätzung.
+
++ In den Schrotthaufen können verschiedene Materialien und eine defekter Handphaser 
+gefunden werden. Dieser liegt unter einem ‚Chad Banner' Poster und scheint auf den 
+ersten Blick aber funktionsfähig. Der Phaser besitzt einen An/Aus Schalter.
+
++ Die ‚Anwohner' können nach Hinweise gefragt werden welche sie bereitwillig 
+preisgeben. Gerne sehen sie aber auch ein paar MiCs.
++ Zusätzlich können auf dem Boden teilweise Reifenspuren ausgemacht werden welche 
+die Richtung angeben.
++ Letztlich führen alle Hinweise zu einem Wartungseingang vor dem in einer 
+Schlammgrube auch noch das Dach des alten Wagens zu erkennen ist. 
+
+? Den Wartungseingang gefunden
+! Nachdem Ihr allen Hinweisen möglichst gut gefolgt seid, steht ihr vor einer 
+Schlammgrube. Die Spuren enden vor dieser was daran liegt das Ihr darin noch das 
+Dach des Wagens von vorhin erkennen könnt, wie dieser ganz langsam einsickert. 
+Wenige Meter weiter seht Ihr einen Wartungseingang dessen Luke geöffnet und 
+aufgeschlagen ist.
+? Umsehen
+! Wenn man genauer hinsieht erkennt man auf dem Boden Fußspuren die Richtung 
+Luke führen aber auch Spuren einer etwas größeren insektenartigen Lebensform 
+die in dieselbe Richtung führen
+
+! Ihr nährt Euch der Luke. Kurz bevor Ihr diese erreicht springt eine 
+Riesenkakerlake aus dieser hervor und greift Euch an.
+
+? Ist die Kakerlake besiegt
+! Die Luke führt hinab in einen Wartungstunnel der nach wenigen Metern von einer 
+Eisengittertür blockiert wird. Links vor der Tür seht Ihr eine Konsole dessen 
+Verkleidung abgenommen wurde. Einige Kabel liegen frei und wurden aufgetrennt. 
+Auf der Konsole blinkt eine rote LED mit dem Text ‚Err'.
++ Die Tür ist ins Schloss gefallen kann aber mittels Konsole und entsprechender 
+Fertigkeit freigeschaltet werden. Schlägt dies fehl muss die Tür ausgehebelt 
+oder das Schloss zerstört werden
++ Durch die Auslösung des Fehlers ist bereits ein Techniker unterwegs der die 
+Spieler evtl. überrascht. Dieser steht ihnen dann aber entsprechend skeptisch 
+gegenüber
+
+? Die Tür durchquert
+! Hinter der Tür erstreckt sich ein langer, nicht erhellter Gang.
+? Licht
++ Nein: Da es sich um einen Wartungstunnel handelt ragen immer mal wieder 
+Rohre in den Gang hinein. Diese können in der Dunkelheit nicht erkannt werden 
+und führen dazu, dass sich die Spieler evtl. den Kopf stoßen könnten.
+! Nach einer Weile teilt sich der Gang an einer T-Zweigung. Aus dem linken Gang 
+sieht man Lichtstrahlen die Kreuzung erhellen. 
++ Wenn man genau hinhört, kann man jemand hören, der scheinbar irgendwas 
+umherschiebt oder durchsucht.
+
++ Der rechte Tunnel führt in ein verzweigtes Tunnelsystem welches Hauptsächlich zur 
+Wartung der Versorgungssystem verwendet wird. Je tiefer sie in diesen hinein gehen, 
+desto wahrscheinlicher ist ein Angriff von weiteren Riesenkakerlaken.
+
+? Zum Licht abbiegen
+! Ihr biegt um die Ecke und steht direkt vor einer Art Aufenthaltsraum, 
+scheinbar für Wartungsarbeiter. Die Tür zu diesem ist massiv und steht offen. Am 
+anderen Ende des Raums seht Ihr einen Mann der in verschiedenen Kisten und 
+Spinden rumwühlt.
+? Rein gehen
+? Probe auf Umsehen
++! Direkt vor Euch erkennt Ihr ein kleines Schimmern das von einem fast 
+unsichtbaren Stolperdraht reflektiert wird.
+-! Beim Betreten des Raumes löst Ihr einen Stolperdraht aus. Mit einem kurzen 
+klacken rollt von der Seite ein kleiner blauleuchtender ballförmiger 
+Gegenstand auf euch zu.
+	? Probe auf Reflexe
++ In der nächsten Sekunde geht ein grelles Licht von der Kugel aus die jedem 
+die Sicht nimmt, der eine Reflexprobe nicht geschafft hat
+
+? Hat jemand die Falle überstanden
+	+ Die Person (Silberzunge) dreht sich um und
+++ ist nicht schlecht beeindruckt als er sieht das die Falle (zumindest von 
+einigen) überwunden wurde.
+-+ lacht als er sieht, dass die Spieler alle geblendet sind. Er zieht einen 
+Revolver und richtet Ihn auf die Spieler.
+
++ Hat Silberzunge den Revolver noch nicht gezogen und zu viel Zeit zieht er diesen. 
+Vorher macht er immer wieder verdächtige Bewegungen die dies andeuten
+
+! Silberzunge: Und ich dachte schon der Stadtschutz hat mich gefunden. Stattdessen 
+habe ich hier irgendwelche Möchtegerns die mein Versteck entdeckt haben.
++ Was wollt Ihr? Der Aufenthaltsort des Buches ist ihm bekannt. Ein ‚Client' hat es 
+vor geraumer Zeit haben wollen. Seit dem hat er nur noch Probleme. Ein Privatmann 
+von der 2. Ebene im Turmbauerviertel.
+
+? Konflikt nicht friedlich gelöst / Silberzunge ist tot
+	! In der Tasche von Silberzunge befindet sich ein Notizzettel
+Hi, S. Ich habe gehört Du hast Das Buch bekommen? Sehr gut! Bring es mir in 
+meine Bleibe im Turmbauerviertel. Ich erwarte Dich. Antons
++ Das Problem an dieser Info ist, dass es 2 Turmbauerviertel gibt. Eines in der 
+2. Und eines in der 3. Ebene. Durch geschicktes Nachfragen kann das richtige 
+Haus auf der 2. Ebene aber ausgemacht werden.
+
+? Den Raum Verlassen
+! Ihr geht gerade aus dem Raum als ihr aus Richtung Eingang Geräusche vernehmt, 
+die sich so anhören als würde etwas gegen Metall schlagen. Kurz darauf seht Ihr 
+fern in der Dunkelheit des Ganges ein rotes Licht angehen das anfängt die nahe 
+Umgebung zu scannen. Kurz darauf folgt ein Geräusch das einem laufenden 
+Sägeblatt ähnelt.
++ Die Spieler bzw. Silberzunge wurde von einem Assassinen Roboter ‚Nautilus' 
+aufgespürt. Dieser ist ihnen nicht feindlich es sei denn sie greifen an oder 
+beschützen Silberzunge. Dieser wird den Spielern aber einreden, dass er auch für 
+sie gefährlich ist.
+? Probe Robotik
++! Nach deinem Wissensstand handelt es sich um einen Assassinen Roboter 
+‚Nautilus'. Diese greifen nur das einprogrammierte Ziel an es sei denn man 
+stellt sich Ihm in den Weg.
+
+
+Kapitel 3: (Ein)Bruch beim Sammler
+
+? Im Turmbauerviertel
+! Das Turmbauerviertel ist ein etwas gehobenes Viertel. Viele der damaligen 
+Erbauer der Stadt haben sich hier niedergelassen. Erst seit kurzem, als die 
+alten Erbauer langsam der Zeit erlagen, hat man angefangen die leeren Wohnungen 
+wieder zu verkaufen. Das ist auch der Grund dafür, dass von ein auf den anderen 
+Moment die Häuser sehr gepflegt und dann doch wieder sehr heruntergekommen 
+aussehen.
+Generell ist auf den Straßen eher weniger los und die wenigen Personen die Ihr 
+sehen könnt sind größtenteils im gehobenen Alter.
+
+? Das richtige Haus erfragt
+! Ihr steht vor einem vergleichsweise großem Haus welches in der unteren Etage 
+Gitterstäbe vor den Fenstern hat. Wenn Ihr durch die Fenster schaut, seht Ihr 
+verschiedene untypische Gegenstände wie Ritterrüstungen, Pianos und vieles 
+weitere was vor langer Zeit auf der Erde seinen Nutzen hatte. Zwei mächtige 
+verzierte Säulen tragen ein Vordach in dem ein Balkon eingelassen ist. Auf der 
+Seite des Hauses ist ebenfalls ein kleiner Balkon angebaut auf dem ein Stuhl zu 
+sehen ist.
++ Klingeln sie, öffnet niemand die Tür. Das Haus ist derzeit verlassen. 
+Allerdings antwortet ein Haustürroboter welcher sagt, dass der Eigentümer einen 
+Freund besucht. Dieser kann mit entsprechender Probe gehackt werden um zu 
+verraten, dass er noch 10 Minuten weg ist.
+
+? Im Haus
++ Ab hier gibt es noch etwas 10 Minuten Zeit. Sollten die Spieler zu lange 
+brauchen kommt Antons nach Hause und wird direkt den Stadtschutz rufen wenn er 
+sie entdeckt.
++ Das Haus am besten aufzeichnen
++ Raummöglichkeiten: Arbeitszimmer, Schlafzimmer, Gästezimmer, WC, Trophäenraum,
+Esszimmer, Küche, Wohnzimmer, Flure, Dachboden
++ Das Haus hat 2 Etagen + Keller und Dachboden, im Schlafzimmer befindet sich 
+ein Kleiderschrank mit doppeltem Boden wo das Buch eingelagert wurde
+
+? Antons weiß vom Einbruch
++ Antons ist ein mächtiger Mann. Wenn er mitbekommt, dass jemand in seinem Haus 
+war wird er die Spieler von Spezialisten jagen lassen. Bevor diese bei Richard 
+ankommen werden diese die Spieler aufspüren und nach Unterstadt verschleppen.
+	+ Dort werden diese versuchen heraus zu bekommen wer der Auftraggeber war.
+
+? Sonst
++ Auf dem Weg nach Richard gelangen die Spieler in eine Routinekontrolle. Sie 
+haben nichts zu befürchten. Machen sie aber Anstalten das Buch zu verstecken 
+oder verhalten sich sonst auffällige, werden sie entsprechend behandelt.
+
++ Kurz bevor Sie das Turmbauerviertel verlassen wartet eine Teilvermummte Person 
+auf die Spieler.
+! Ihr geht die Straßen entlang in Richtung .... Gerade als Ihr in die nächste Straße 
+abbiegt pfeift eine teils vermummte Person von der anderen Straßenseite. Als diese 
+Person sieht, dass Ihr Ihn bemerkt hat winkt er Euch fordernd zu Sich und 
+verschwindet in einer Gasse.
+
+? Gehen Sie zu Ihm
++ Die Person ist groß und schlank und trägt dunkle Kleidung. Es handelt sich um 
+Karnos einem Rebell der Stadt. Er warnt die Spieler vor Richard. Diese wird sie 
+‚verschwinden' lassen wenn er das Buch hat. Er schlägt ihnen vor das Lebensband 
+zurück zu setzen wenn sie sich den Rebellen anschließen.
+? Willigen Sie ein
+! "Geht nach Zwergrosenbach einem gehobenen Stadtteil auf Ebene 3. Dort findet 
+Ihr den Energiewerkzeugschuppen ‚Braunecks Energie'. Fragt dort nach Zwick und 
+sagt Ihm das Ich euch schicke."
+! Karnos wendet sich von Euch ab und hebt sanft und leise in die Lüfte. Als er 
+davonschwebt erkennt Ihr auf seinem Rücken einen Gravitationsumkehrer.
+
+? Sie gehen zu Richard
++ Gehen die Spieler schließlich doch zu Richard bedankt sich dieser bei Ihnen 
+und lockt Sie in ein Hinterzimmer um angeblich die Lebensbänder wieder frei zu 
+stellen. Dort werden die Spieler allerdings ‚entsorgt'. Sie haben die 
+Möglichkeit Ihn vorher noch aufzuhalten.
+
+? Sie gehen zu Zwick
+	

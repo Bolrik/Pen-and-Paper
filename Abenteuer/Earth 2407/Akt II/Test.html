@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pen and Paper Charakter Erstellung</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="status-bar">
+    <p>Verfügbare Erfahrungspunkte (Exp): <span id="exp-points">400</span></p>
+    <p>Verfügbare Eigenschaftspunkte (EP): <span id="ep-points">0</span></p>
+  </div>
+
+  <h1>Pen and Paper Charakter Erstellung</h1>
+
+  <div>
+    <ul>
+      <li><button id="skills-tab-btn">Fähigkeiten</button></li>
+      <li><button id="attributes-tab-btn">Eigenschaften</button></li>
+    </ul>
+
+    <div id="skills-tab" class="tab-content active">
+      <h2>Fähigkeiten</h2>
+      <p>Verfügbare Erfahrungspunkte (Exp): <span id="exp-points">400</span></p>
+
+      <div id="skills-container">
+        <!-- Hier werden die Fähigkeiten dynamisch hinzugefügt -->
+      </div>
+
+      <button id="add-skill">Neue Fähigkeit hinzufügen</button>
+    </div>
+
+    <div id="attributes-tab" class="tab-content">
+      <h2>Eigenschaften</h2>
+      <p>Verfügbare Eigenschaftspunkte (EP): <span id="ep-points">0</span></p>
+      
+      <div class="form-section">
+        <label for="strength">Stärke:</label>
+        <input type="number" class="attribute" id="strength" min="25" value="25">
+      </div>
+      <div class="form-section">
+        <label for="dexterity">Geschicklichkeit:</label>
+        <input type="number" class="attribute" id="dexterity" min="25" value="25">
+      </div>
+      <div class="form-section">
+        <label for="willpower">Willenskraft:</label>
+        <input type="number" class="attribute" id="willpower" min="25" value="25">
+      </div>
+      <div class="form-section">
+        <label for="intelligence">Intelligenz:</label>
+        <input type="number" class="attribute" id="intelligence" min="25" value="25">
+      </div>
+      <div class="form-section">
+        <label for="charisma">Charisma:</label>
+        <input type="number" class="attribute" id="charisma" min="25" value="25">
+      </div>
+      <div class="form-section">
+        <label for="endurance">Ausdauer:</label>
+        <input type="number" class="attribute" id="endurance" min="25" value="25">
+      </div>
+      <!-- Weitere Eigenschaften können hier hinzugefügt werden -->
+
+    </div>
+  </div>
+  
+  <script src="main.js"></script>
+  <script src="skills.js"></script>
+  <script src="attributes.js"></script>
+</body>
+</html>
