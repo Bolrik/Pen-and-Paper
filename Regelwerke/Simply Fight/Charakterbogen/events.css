@@ -1,0 +1,40 @@
+/* Events */
+.events-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.events-container .event {
+    width: 95%;
+    margin: 1px auto;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.events-container .event-name {
+    flex: 12;
+    padding: 5px;
+}
+
+.events-container .event-desc {
+    flex: 32;
+    padding: 5px;
+    border-left: 1px dashed #ccc;
+    border-radius: 8px;
+}
+
+.events-container .event-ep {
+    flex: 3;
+    padding: 5px;
+    border-left: 1px dashed #ccc;
+    border-radius: 8px;
+}
+
+.events-container .event-exp {
+    flex: 3;
+    padding: 5px;
+    border-left: 1px dashed #ccc;
+    border-radius: 8px;
+}

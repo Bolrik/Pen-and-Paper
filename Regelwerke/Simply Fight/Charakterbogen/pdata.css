@@ -1,0 +1,37 @@
+.pdata-container {
+    display: flex;
+}
+
+.pdata-group {
+    flex: 1 1 100px;
+}
+
+.pdata-input {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.pdata-content {
+    flex: 1;
+    padding: 5px;
+    margin: 0px 5px;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+}
+
+.pdata-content-inline-container {
+    display: flex;
+}
+
+.pdata-content-inline-container > * {
+    flex: 2;
+}
+
+.pdata-content-inline {
+    flex: 1;
+    padding: 5px;
+    margin: -5px 0px;
+    border-left: 1px dashed #ccc;
+    border-radius: 30px;
+}

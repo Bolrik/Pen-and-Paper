@@ -1,0 +1,93 @@
+@import url("overlay.css");
+@import url("properties.css");
+@import url("skills.css");
+@import url("events.css");
+@import url("pdata.css");
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+label {
+    width: 120px;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+}
+
+#header {
+	position: fixed;
+	top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+	z-index: 10;
+}
+
+#addEventButton, #addSkillButton {
+	display: block;
+	width: 95%;
+	margin: 0px auto;
+	padding: 12px 20px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+	color: #ffffff;
+	background-color: #007bff;
+	border: none;
+	border-radius: 6px;
+	transition: background-color 0.2s;
+}
+
+#addEventButton:hover, #addSkillButton:hover {
+  background-color: #0056b3; /* Ändern der Hintergrundfarbe bei Hover */
+}
+
+#addEventButton:active, #addSkillButton:active {
+  background-color: #003d80; /* Ändern der Hintergrundfarbe, wenn der Button aktiviert wird */
+}
+
+#pageContainer {
+    padding: 20px;
+}
+
+@media print {
+	#header {
+		display: none;
+	}
+	
+	#addEventButton {
+		display: none;
+	}
+	
+	#addSkillButton {
+		display: none;
+	}
+}
+
+.header-item {
+    margin: 0px 5px;
+}
+
+.page {
+    width: 210mm;
+    height: 297mm;
+    margin: 10px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    page-break-after: always;
+}
+
+/* Save */
+.save-box {
+    width: 100%;
+}

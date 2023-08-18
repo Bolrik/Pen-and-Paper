@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Charakterbogen</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="header">
+        <span class="header-item" id="exp">Erfahrungspunkte (Exp): <span id="expValue">0</span></span>
+        <span class="header-item" id="ep">Eigenschaftspunkte (EP): <span id="epValue">10</span></span>
+		<button onclick="OpenOverlay()">Save and Load</button>
+    </div>
+    <div id="pageContainer">
+        <div class="page">
+            <h1>Charakterbogen</h1>
+			<div class="pdata-container">
+				<div class="pdata-group" style="flex: 4;">
+					<div class="pdata-input">
+						<label for="name">Name:</label>
+						<div class="pdata-content" contenteditable="true" id="inName"></div>
+					</div>
+					<div class="pdata-input">
+						<label for="age">Alter:</label>
+						<div class="pdata-content" contenteditable="true" id="inAge"></div>
+						<label for="gender">Geschlecht:</label>
+						<div class="pdata-content" contenteditable="true" id="inGender"></div>
+					</div>
+					<div class="pdata-input">
+						<label for="hp">LP / OhS:</label>
+						<div class="pdata-content">
+							<div class="pdata-content-inline-container">
+								<div id="LPValue"></div>
+								<div class="pdata-content-inline" id="OhSValue"></div>
+							</div>
+						</div>
+						<label for="stature">Statur:</label>
+						<div class="pdata-content" contenteditable="true" id="inBody"></div>
+					</div>
+					<div class="pdata-input">
+						<label for="misc"><div><span contenteditable="true" id="inC1Head">Freifeld</span>:</div></label>
+						<div class="pdata-content" contenteditable="true" id="inC1Value"></div>
+						<label for="misc2"><div><span contenteditable="true" id="inC2Head">Freifeld</span>:</div></label>
+						<div class="pdata-content" contenteditable="true" id="inC2Value"></div>
+					</div>
+				</div>
+				<div class="pdata-group" style="border: 1px solid #ccc; padding: 4px; border-radius: 8px;">
+					<label for="look">Aussehen:</label>
+					<div></div>
+				</div>
+			</div>
+			
+			<!-- Eigenschaften -->
+            <div class="properties">
+                <h2>Eigenschaften:</h2>
+                <div class="property-group">
+                    <div class="property">
+                        <div class="prop-name">Stärke</div>
+                        <div class="prop-value" id="strPropValue">25</div>
+						<div class="prop-bonus" id="strBonusValue">5</div>
+                    </div>
+                    <div class="property">
+                        <div class="prop-name">Geschick</div>
+                        <div class="prop-value" id="dexPropValue">25</div>
+						<div class="prop-bonus" id="dexBonusValue">5</div>
+                    </div>
+                    <div class="property">
+                        <div class="prop-name">Ausdauer</div>
+                        <div class="prop-value" id="staPropValue">25</div>
+						<div class="prop-bonus" id="staBonusValue">5</div>
+                    </div>
+                </div>
+                <div class="property-group">
+                    <div class="property">
+                        <div class="prop-name">Intelligenz</div>
+                        <div class="prop-value" id="intPropValue">25</div>
+						<div class="prop-bonus" id="intBonusValue">5</div>
+                    </div>
+                    <div class="property">
+                        <div class="prop-name">Willenskraft</div>
+                        <div class="prop-value" id="wisPropValue">25</div>
+						<div class="prop-bonus" id="wisBonusValue">5</div>
+                    </div>
+                    <div class="property">
+                        <div class="prop-name">Charisma</div>
+                        <div class="prop-value" id="chaPropValue">25</div>
+						<div class="prop-bonus" id="chaBonusValue">5</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="skills">
+                <h2>Fähigkeiten:</h2>
+				<button id="addSkillButton">Fähigkeit hinzufügen</button>
+                <div class="skills-container">
+                    <!-- Hier werden die Fähigkeiten dynamisch hinzugefügt -->
+                </div>
+            </div>
+        </div>
+		
+		<!-- Seite 2: Eigenschaftspunkte vergeben -->
+		<div class="page" id="eigenschaftspunkte-vergeben">
+			<h1>Levelbogen</h1>
+			<div>
+				<table class="property-table">
+				  <tr>
+					<th width="120px">Fähigkeiten:</th>
+					<th>Lehrling</th>
+					<th>Meister</th>
+				  </tr>
+				  <tr>
+					<td style="font-weight:bold">Anzahl:</td>
+					<td id="lehrCountValue">0</td>
+					<td id="meisterCountValue">0</td>
+				  </tr>
+				  <tr>
+					<td style="font-weight:bold">EP:</td>
+					<td id="lehrEPValue">0</td>
+					<td id="meisterEPValue">0</td>
+				  </tr>
+				</table>
+			</div>			
+			
+			<div class="properties">
+				<h2>Eigenschaften steigern:</h2>
+				<div>
+					<table class="property-table">
+					  <tr>
+						<th width="120px">Eigenschaft</th>
+						<th width="60px">Basis</th>
+						<th>EP-Steigerung</th>
+						<th>Exp-Steigerung</th>
+						<th>Exp-Kosten</th>
+						<th width="60px">Neu</th>
+					  </tr>
+					  <tr>
+						<td style="font-weight:bold">Stärke:</td>
+						<td><div id="strPropBase" contenteditable="true">25</div></td>
+						<td><div id="strPropEP" contenteditable="true">0</div></td>
+						<td><div id="strPropExp" contenteditable="true">0</div></td>
+						<td><div id="strPropExpCost">0</div></td>
+						<td><div id="strPropCalc">0</div></td>
+					  </tr>
+					  <tr>
+						<td style="font-weight:bold">Geschick:</td>
+						<td><div id="dexPropBase" contenteditable="true">25</div></td>
+						<td><div id="dexPropEP" contenteditable="true">0</div></td>
+						<td><div id="dexPropExp" contenteditable="true">0</div></td>
+						<td><div id="dexPropExpCost">0</div></td>
+						<td><div id="dexPropCalc">0</div></td>
+					  </tr>
+					  <tr>
+						<td style="font-weight:bold">Ausdauer:</td>
+						<td><div id="staPropBase" contenteditable="true">25</div></td>
+						<td><div id="staPropEP" contenteditable="true">0</div></td>
+						<td><div id="staPropExp" contenteditable="true">0</div></td>
+						<td><div id="staPropExpCost">0</div></td>
+						<td><div id="staPropCalc">0</div></td>
+					  </tr>
+					  <tr>
+						<td style="font-weight:bold">Intelligenz:</td>
+						<td><div id="intPropBase" contenteditable="true">25</div></td>
+						<td><div id="intPropEP" contenteditable="true">0</div></td>
+						<td><div id="intPropExp" contenteditable="true">0</div></td>
+						<td><div id="intPropExpCost">0</div></td>
+						<td><div id="intPropCalc">0</div></td>
+					  </tr>
+					  <tr>
+						<td style="font-weight:bold">Willenskraft:</td>
+						<td><div id="wisPropBase" contenteditable="true">25</div></td>
+						<td><div id="wisPropEP" contenteditable="true">0</div></td>
+						<td><div id="wisPropExp" contenteditable="true">0</div></td>
+						<td><div id="wisPropExpCost">0</div></td>
+						<td><div id="wisPropCalc">0</div></td>
+					  </tr>
+					  <tr>
+						<td style="font-weight:bold">Charisma:</td>
+						<td><div id="chaPropBase" contenteditable="true">25</div></td>
+						<td><div id="chaPropEP" contenteditable="true">0</div></td>
+						<td><div id="chaPropExp" contenteditable="true">0</div></td>
+						<td><div id="chaPropExpCost">0</div></td>
+						<td><div id="chaPropCalc">0</div></td>
+					  </tr>
+					</table>
+				</div>	
+			</div>
+			
+			
+			<div class="properties">
+				<h2>Lebenspunkte steigern:</h2>
+				<div>
+					<table class="property-table">
+					  <tr>
+						<th width="60px">Basis</th>
+						<th>Steigerung</th>
+						<th>Kosten</th>
+						<th>Neu</th>
+					  </tr>
+					  <tr>
+						<td><div id="LPPropBase" contenteditable="true">100</div></td>
+						<td><div id="LPProp" contenteditable="true">0</div></td>
+						<td><div id="LPPropCost">0</div></td>
+						<td><div id="LPPropCalc">100</div></td>
+					  </tr>
+					</table>
+				</div>	
+			</div>
+		</div>
+		
+		<div class="page">
+			<h1>Vorteile / Nachteile & Ereignisse</h1>
+			<div class="events">
+				<button id="addEventButton">Neuer Eintrag</button>
+				<div class="events-container">
+					<!-- Hier werden die Fähigkeiten dynamisch hinzugefügt -->
+				</div>
+			</div>
+		</div>
+		
+
+    </div>
+	
+	<div id="overlay" class="overlay">
+		<div class="overlay-content">
+		  <h2>Save/Load Dialog</h2>
+		  <textarea class="save-box" id="save-content" rows="10" cols="50" placeholder="Select a Character.JSON file and click 'Load' to retrieve character"></textarea>
+		  <!--<div class="save-box" id="save-content" rows="10" cols="50" placeholder="Select a Character.JSON file and click 'Load' to retrieve character" contenteditable="true"></div>-->
+		  <input type="file" id="save-file-input" accept=".json">
+		  <div class="overlay-button-container">
+			  <button class="overlay-button" onclick="SaveJSON()">Save</button>
+			  <button class="overlay-button" onclick="LoadJSON()">Load</button>
+			  <button class="overlay-button" onclick="CloseOverlay()">Close</button>
+		  </div>
+		</div>
+	</div>
+
+    <script src="script.js"></script>
+</body>
+</html>
