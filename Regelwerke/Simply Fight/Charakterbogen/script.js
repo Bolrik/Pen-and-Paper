@@ -22,12 +22,12 @@ let wisBonus = 0;
 let intBonus = 0;
 let chaBonus = 0;
 
+// Bild
+let imageData = "";
+
 
 /* Display */
 function DisplayAll() {
-
-	// Initialanzeige
-	// CalculateAll();
 	DisplayProperties();
 	DisplayExp();
 	DisplayEP();
@@ -87,38 +87,36 @@ function DisplayOhS() {
 
 /* Calculate */
 function CalculateAll() {
-    // Berechne EP-Bonus basierend auf Fähigkeiten
+	// Berechne EP-Bonus basierend auf Fähigkeiten
 	let lehrEPValue = 0;
-    let meisterEPValue = 0;
-    let lehrCountValue = 0;
-    let meisterCountValue = 0;
+	let meisterEPValue = 0;
+	let lehrCountValue = 0;
+	let meisterCountValue = 0;
 
 	CalculateExpPool();
 	CalculateEPPool()
 	CalculateProperties();
 	CalculateLP();
 	CalculateOhS();
-	
-    const skillValues = document.querySelectorAll('.skill-value');
-	
-    skillValues.forEach((skillValue) => {
-        let skillPoints = parseInt(skillValue.textContent);
-        if (!isNaN(skillPoints))
-		{
-            if (skillPoints >= 70) {
+
+	const skillValues = document.querySelectorAll('.skill-value');
+
+	skillValues.forEach((skillValue) => {
+		let skillPoints = parseInt(skillValue.textContent);
+		if (!isNaN(skillPoints)) {
+			if (skillPoints >= 70) {
 				meisterEPValue += 8; // 3 EP + 5 EP Bonus
 				epValue += 8;
 				meisterCountValue++;
 			}
-			else if (skillPoints >= 30)
-			{
+			else if (skillPoints >= 30) {
 				lehrEPValue += 3; // 3 EP
 				epValue += 3;
 				lehrCountValue++;
 			}
-			
+
 			expValue -= skillPoints;
-        }
+		}
 	});
 
 	const lehrEPElement = document.getElementById('lehrEPValue');
@@ -135,8 +133,7 @@ function CalculateAll() {
 	DisplayAll();
 }
 
-function CalculateExpPool()
-{
+function CalculateExpPool() {
 	let expPool = 0;
 
 	const valueElements = document.querySelectorAll('.event-exp');
@@ -146,21 +143,19 @@ function CalculateExpPool()
 			expPool += value;
 		}
 	});
-	
+
 	expValue = expPool;
 }
 
-function CalculateEPPool()
-{
+function CalculateEPPool() {
 	let epPool = 0;
-	
+
 	const valueElements = document.querySelectorAll('.event-ep');
 	for (const valueElement of valueElements) {
-        let value = parseInt(valueElement.textContent);
-        if (!isNaN(value))
-		{
+		let value = parseInt(valueElement.textContent);
+		if (!isNaN(value)) {
 			epPool += value;
-        }
+		}
 	}
 
 	epValue = epPool;
@@ -210,8 +205,7 @@ function CalculateProperties() {
 	chaBonus = Math.trunc(chaValue / 5);
 }
 
-function CalculateLP()
-{
+function CalculateLP() {
 	const lpBaseElement = document.getElementById('LPPropBase');
 	const lpExpElement = document.getElementById('LPProp');
 	const lpValueElement = document.getElementById('LPValue');
@@ -241,66 +235,65 @@ function CalculateLP()
 	lpValueElement.textContent = lpValue;
 }
 
-function CalculateOhS()
-{
+function CalculateOhS() {
 	ohsValue = Math.max(Math.floor(lpValue / 10) + 5 - wisBonus, 10);
 }
 
 
 function AddSkill(name = "Fähigkeitsname", value = "0") {
-    const skillsContainer = document.querySelector('.skills-container');
+	const skillsContainer = document.querySelector('.skills-container');
 
-    const skillDiv = document.createElement('div');
-    skillDiv.classList.add('skill');
+	const skillDiv = document.createElement('div');
+	skillDiv.classList.add('skill');
 
-    const skillNameDiv = document.createElement('div');
-    skillNameDiv.classList.add('skill-name');
-    skillNameDiv.contentEditable = 'true';
-    skillNameDiv.textContent = name;
+	const skillNameDiv = document.createElement('div');
+	skillNameDiv.classList.add('skill-name');
+	skillNameDiv.contentEditable = 'true';
+	skillNameDiv.textContent = name;
 
-    const skillValueDiv = document.createElement('div');
-    skillValueDiv.classList.add('skill-value');
-    skillValueDiv.contentEditable = 'true';
-    skillValueDiv.textContent = value;
+	const skillValueDiv = document.createElement('div');
+	skillValueDiv.classList.add('skill-value');
+	skillValueDiv.contentEditable = 'true';
+	skillValueDiv.textContent = value;
 
-    skillDiv.appendChild(skillNameDiv);
-    skillDiv.appendChild(skillValueDiv);
+	skillDiv.appendChild(skillNameDiv);
+	skillDiv.appendChild(skillValueDiv);
 
-    skillsContainer.appendChild(skillDiv);
+	skillsContainer.appendChild(skillDiv);
 }
 
 function AddEvent(name = "Name", desc = "Beschreibung", ep = "EP", exp = "EXP") {
-    const container = document.querySelector('.events-container');
+	const container = document.querySelector('.events-container');
 
-    const rootDiv = document.createElement('div');
-    rootDiv.classList.add('event');
+	const rootDiv = document.createElement('div');
+	rootDiv.classList.add('event');
 
-    const nameDiv = document.createElement('div');
-    nameDiv.classList.add('event-name');
-    nameDiv.contentEditable = 'true';
-    nameDiv.textContent = name;
-	
-    const descDiv = document.createElement('div');
-    descDiv.classList.add('event-desc');
-    descDiv.contentEditable = 'true';
-    descDiv.textContent = desc;
+	const nameDiv = document.createElement('div');
+	nameDiv.classList.add('event-name');
+	nameDiv.contentEditable = 'true';
+	nameDiv.textContent = name;
 
-    const epChangeDiv = document.createElement('div');
-    epChangeDiv.classList.add('event-ep');
-    epChangeDiv.contentEditable = 'true';
-    epChangeDiv.textContent = ep;
-	
-    const expChangeDiv = document.createElement('div');
-    expChangeDiv.classList.add('event-exp');
-    expChangeDiv.contentEditable = 'true';
-    expChangeDiv.textContent = exp;
+	const descDiv = document.createElement('div');
+	descDiv.classList.add('event-desc');
+	descDiv.contentEditable = 'true';
+	descDiv.textContent = desc;
 
-    rootDiv.appendChild(nameDiv);
-    rootDiv.appendChild(descDiv);
-    rootDiv.appendChild(epChangeDiv);
-    rootDiv.appendChild(expChangeDiv);
+	const epChangeDiv = document.createElement('div');
+	epChangeDiv.classList.add('event-ep');
+	epChangeDiv.contentEditable = 'true';
+	epChangeDiv.textContent = ep;
 
-    container.appendChild(rootDiv);
+	const expChangeDiv = document.createElement('div');
+	expChangeDiv.classList.add('event-exp');
+	expChangeDiv.contentEditable = 'true';
+	expChangeDiv.textContent = exp;
+
+	rootDiv.appendChild(nameDiv);
+	rootDiv.appendChild(descDiv);
+	rootDiv.appendChild(epChangeDiv);
+	rootDiv.appendChild(expChangeDiv);
+
+	container.appendChild(rootDiv);
 }
 
 
@@ -320,13 +313,13 @@ function CreateEvents(eventsData) {
 
 /* Button_Click */
 function OpenOverlay() {
-  var overlay = document.getElementById("overlay");
-  overlay.style.display = "block";
+	var overlay = document.getElementById("overlay");
+	overlay.style.display = "block";
 }
 
 function CloseOverlay() {
-  var overlay = document.getElementById("overlay");
-  overlay.style.display = "none";
+	var overlay = document.getElementById("overlay");
+	overlay.style.display = "none";
 }
 
 function SaveJSON() {
@@ -335,7 +328,7 @@ function SaveJSON() {
 	if (!confirmed) {
 		return; // Falls der Benutzer nicht bestätigt hat, wird die Funktion beendet
 	}
-	
+
 	const skillElements = document.querySelectorAll(".skill");
 	const eventElements = document.querySelectorAll(".event");
 	const skills = [];
@@ -404,9 +397,11 @@ function SaveJSON() {
 		chaEP: parseInt(document.getElementById('chaPropEP').textContent),
 
 		lpPropBase: parseInt(document.getElementById('LPPropBase').textContent),
-		lpProp: parseInt(document.getElementById('LPProp').textContent)
+		lpProp: parseInt(document.getElementById('LPProp').textContent),
+
+		image: imageData
 	};
-	
+
 	const jsonData = JSON.stringify(data);
 	const blob = new Blob([jsonData], { type: "application/json" });
 	const url = URL.createObjectURL(blob);
@@ -431,7 +426,7 @@ function LoadJSON() {
 
 	const jsonData = document.getElementById('save-content').value;
 	const data = JSON.parse(jsonData);
-	
+
 	const inEventContainer = document.querySelector('.events-container');
 	const inSkillContainer = document.querySelector('.skills-container');
 
@@ -468,11 +463,14 @@ function LoadJSON() {
 	document.getElementById('LPPropBase').textContent = data.lpPropBase ?? 100;
 	document.getElementById('LPProp').textContent = data.lpProp ?? 0;
 
+	imageData = data.image;
+	document.getElementById('characterImage').src = imageData;
+
 	inEventContainer.innerHTML = "";
 	inSkillContainer.innerHTML = "";
-	
-	CreateSkills(data.skills); // Funktion zum Erstellen der Skill-Elemente aufrufen
-	CreateEvents(data.events); // Funktion zum Erstellen der Event-Elemente aufrufen
+
+	CreateSkills(data.skills);
+	CreateEvents(data.events);
 
 	CalculateAll();
 }
@@ -487,22 +485,71 @@ function OnClickAddEvent() {
 
 /* Overlay_File_Selector */
 function HandleFileSelect(event) {
-    const selectedFile = event.target.files[0];
+	const selectedFile = event.target.files[0];
 
-    if (selectedFile && selectedFile.type === 'application/json') {
-        const reader = new FileReader();
+	if (selectedFile && selectedFile.type === 'application/json') {
+		const reader = new FileReader();
 
-        reader.onload = function(event) {
-            const content = event.target.result;
+		reader.onload = function (event) {
+			const content = event.target.result;
 			document.getElementById('save-content').value = content;
-        };
+		};
 
 		reader.readAsText(selectedFile);
-    } else {
-        alert('Bitte eine JSON-Datei auswählen.');
-    }
+	} else {
+		alert('Bitte eine JSON-Datei auswählen.');
+	}
 }
 
+function HandleImageSelect2(event) {
+	const image = event.target.files[0]; // Das ausgewählte Bild
+	const imageElement = document.getElementById('characterImage');
+
+	// Zeige das ausgewählte Bild im img-Tag an
+	imageElement.src = URL.createObjectURL(image);
+
+	// Konvertiere das Bild in Base64
+	const reader = new FileReader();
+	reader.onload = function (event) {
+		imageData = event.target.result.split(',')[1]; // Entferne das "data:image/jpeg;base64,"-Präfix
+	};
+
+	reader.readAsDataURL(image);
+	imageType = image.type;
+}
+
+function HandleImageSelect(event) {
+	const imageElement = document.getElementById('characterImage');
+
+	var img = new Image();
+
+	// Laden Sie das Bild aus dem input-Element
+	img.src = URL.createObjectURL(event.target.files[0]);
+	var canvas = document.createElement("canvas");
+
+	// Erhalten Sie den Kontext des Canvas
+	var ctx = canvas.getContext("2d");
+
+	// Warten Sie, bis das Bild geladen ist
+	img.onload = function () {
+		// Setzen Sie die Breite und Höhe des Canvas auf die gewünschte Größe
+		let size = 144;
+		canvas.heigtt = size;
+		canvas.width = size * img.width / img.height;
+
+		// Zeichnen Sie das Bild auf dem Canvas mit der angegebenen Größe
+		ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+
+		// Konvertieren Sie das Canvas in einen base64-String
+		imageData = canvas.toDataURL("image/jpeg");
+
+		// Speichern Sie den base64-String in json
+		var json = JSON.stringify({ image: imageData });
+
+		// Setzen Sie die Quelle des img-Elements auf das generierte Bild
+		imageElement.src = imageData;
+	}
+}
 
 document.addEventListener('input', () => {
 	CalculateAll();
@@ -511,5 +558,6 @@ document.addEventListener('input', () => {
 document.getElementById('addSkillButton').addEventListener('click', OnClickAddSkill);
 document.getElementById('addEventButton').addEventListener('click', OnClickAddEvent);
 document.getElementById('save-file-input').addEventListener('input', HandleFileSelect);
+document.getElementById('charakterPreview').addEventListener('change', HandleImageSelect);
 
 CalculateAll();
