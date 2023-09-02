@@ -14,6 +14,7 @@
     </div>
     <div id="pageContainer">
         <div class="page">
+		<div class="page-button">👁️</div>
             <h1>Charakterbogen</h1>
 			<div class="pdata-container">
 				<div class="pdata-group" style="flex: 4;">
@@ -45,7 +46,7 @@
 						<div class="pdata-content" contenteditable="true" id="inC2Value"></div>
 					</div>
 				</div>
-				<div class="pdata-group image-container">
+				<div class="pdata-image image-container">
 					<label for="charakterPreview" class="image-input">
 						<!-- Das Bild als Schaltfläche -->
 						<img id="characterImage" src="#" alt="Aussehen">
@@ -102,8 +103,19 @@
             </div>
         </div>
 		
-		<!-- Seite 2: Eigenschaftspunkte vergeben -->
+		<!-- Seite 2: Inventar -->
+		<div class="page">
+		<div class="page-button">👁️</div>
+			<h1>Inventar</h1>
+			<button id="addItemButton">Gegenstand hinzufügen</button>
+			<div class="items-container">
+                    <!-- Hier werden die Gegenstände dynamisch hinzugefügt -->
+                </div>
+		</div>
+		
+		<!-- Seite 3: Eigenschaftspunkte vergeben -->
 		<div class="page" id="eigenschaftspunkte-vergeben">
+		<div class="page-button">👁️</div>
 			<h1>Levelbogen</h1>
 			<div>
 				<table class="property-table">
@@ -211,7 +223,9 @@
 			</div>
 		</div>
 		
+		<!-- Seite 4: Ereignisse -->
 		<div class="page">
+		<div class="page-button">👁️</div>
 			<h1>Vorteile / Nachteile & Ereignisse</h1>
 			<div class="events">
 				<button id="addEventButton">Neuer Eintrag</button>
@@ -238,6 +252,12 @@
 		</div>
 	</div>
 
-    <script src="script.js"></script>
+	<script src="./globals.js"></script>
+	<script src="./display.js"></script>
+	<script src="./calculate.js"></script>
+	<script src="./skillsItemsEvents.js"></script>
+	<script src="./saveLoad.js"></script>
+	<script src="./events.js"></script>
+    <script src="./script.js"></script>
 </body>
 </html>

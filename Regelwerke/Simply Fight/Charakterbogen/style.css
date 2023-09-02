@@ -1,6 +1,7 @@
 @import url("overlay.css");
 @import url("properties.css");
 @import url("skills.css");
+@import url("items.css");
 @import url("events.css");
 @import url("pdata.css");
 
@@ -33,7 +34,7 @@ h1 {
 	z-index: 10;
 }
 
-#addEventButton, #addSkillButton {
+#addEventButton, #addSkillButton, #addItemButton {
 	display: block;
 	width: 95%;
 	margin: 0px auto;
@@ -48,37 +49,24 @@ h1 {
 	transition: background-color 0.2s;
 }
 
-#addEventButton:hover, #addSkillButton:hover {
-  background-color: #0056b3; /* Ändern der Hintergrundfarbe bei Hover */
+#addEventButton:hover, #addSkillButton:hover, #addItemButton:hover {
+	background-color: #0056b3;
 }
 
-#addEventButton:active, #addSkillButton:active {
-  background-color: #003d80; /* Ändern der Hintergrundfarbe, wenn der Button aktiviert wird */
+#addEventButton:active, #addSkillButton:active, #addItemButton:active {
+	background-color: #003d80;
 }
 
 #pageContainer {
-    padding: 20px;
-}
-
-@media print {
-	#header {
-		display: none;
-	}
-	
-	#addEventButton {
-		display: none;
-	}
-	
-	#addSkillButton {
-		display: none;
-	}
+	padding: 20px;
 }
 
 .header-item {
-    margin: 0px 5px;
+	margin: 0px 5px;
 }
 
 .page {
+	position: relative;
     width: 210mm;
     height: 297mm;
     margin: 10px auto;
@@ -87,35 +75,94 @@ h1 {
     page-break-after: always;
 }
 
+.page-collapsed {
+	height: 60px;
+	overflow: scroll;
+	overflow-x: hidden;
+}
+
+.page-button {
+	position: sticky;
+	
+	left: -20px;
+	top: 0px;
+	margin-left: -20px;
+	
+	width: 24px;
+	height: 24px;
+	color: #ffffff;
+	
+	border: 2px dotted #ccc;
+	border-left: none;
+	border-radius: 0px 10px 10px 0px;
+	
+	display:flex;
+	justify-content: center;
+    align-items: center;
+	
+	cursor: pointer;
+	
+	padding-bottom: 1px;
+	padding-right: 1px;
+}
+
 /* Save */
 .save-box {
     width: 100%;
 }
 .image-container {
-	display:flex;
-	align-items:center;
-	justify-content:center;
-	border: 1px solid #ccc;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
 	padding: 4px;
 	border-radius: 8px;
 }
 
 .image-input {
-  display: flex;
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  line-height: 100px;
-  cursor: pointer;
-  overflow: hidden;
-  max-height:144px;
+	display: flex;
+	width: 100%;
+	height: 190px;
+	max-height: 190px;
+	text-align: center;
+	line-height: 100px;
+	cursor: pointer;
+	overflow: hidden;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	border: 1px solid #ccc;
+	border-radius: 30px;
 }
 
 .image-input img {
-  max-width: 100%;
-  max-height: 100%;
-  width: auto;
-  height: auto;
-  display: block;
-  margin: auto;
+	max-width: 100%;
+	max-height: 100%;
+	width: auto;
+	height: auto;
+	display: block;
+	margin: auto;
+	
+	border-radius: 16px;
+}
+
+
+
+@media print {
+	#header {
+		display: none;
+	}
+	
+	#addEventButton, #addSkillButton, #addItemButton {
+		display: none;
+	}
+	
+	.page-collapsed {
+		height: 297mm;
+		overflow: visible;
+	}
+	
+	.page-button {
+		display: none;
+	}
 }

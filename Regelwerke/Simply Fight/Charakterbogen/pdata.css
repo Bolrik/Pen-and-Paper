@@ -6,6 +6,12 @@
     flex: 1 1 100px;
 }
 
+.pdata-image {
+	position:relative;
+    flex: 1 1 100px;
+	border: none;
+}
+
 .pdata-input {
     display: flex;
     align-items: center;
