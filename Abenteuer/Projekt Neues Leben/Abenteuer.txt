@@ -1,0 +1,74 @@
+Hintergrund
+Das Abenteuer spielt an Bord des Raumtransportschiffs NL-2096-ES („Neues Leben – 2096 – Erkunder Siedler“), welches im Rahmen des Projekts „Neues Leben“ gestartet wurde. Ziel des Projekts ist die Aufklärung und Besiedlung eines neuen Planeten in der habitablen Zone des Sterns LRX-214809. Signale und Scans deuten darauf hin, dass der Planet bewohnbar ist.
+Kurz vor der Ankunft an der Versorgungsstation ‚Vancoover‘ werden die Spieler aus ihrem Hyperschlaf geweckt. Neben den üblichen Wahrnehmungsstörungen nach dem Hyperschlaf scheint zunächst alles normal zu sein. Vor etwa einer Woche kam es jedoch zu kleineren Kollisionen, die von „Brutlingen“ (feindliche außerirdische Lebensformen) verursacht wurden. Diese Wesen haben sich an das Schiff gehängt und warten nun auf eine Gelegenheit, ins Innere zu gelangen. Bei diesen Vorfällen wurde der Kapitän überrascht und getötet. Alle außer einem Brutling haben das Schiff inzwischen wieder verlassen. Der Kapitän hängt nun an der Sendeantenne und dient als Brutkörper für den verbleibenden Brutling. Über dieses Ereignis gibt es keine Aufzeichnungen, nur die Kollisionen wurden registriert.
+Bevor die Spieler ‚Vancoover‘ erreichen, können sie diese Wesen nur entdecken, wenn sie einen Außenbordeinsatz (EVA) durchführen. Der Kapitän war der Erste, der aus dem Hyperschlaf erwachte, sein Verbleib ist jedoch ungeklärt. Die KAR hat keine Informationen über sein Schicksal. Die Leiche des Kapitäns befindet sich außerhalb des Raumschiffs, wo er von einer der außerirdischen Lebensformen überwältigt wurde und nun als Brutstätte dient. Der Kapitän trug als einziger einen Zugangscode der Stufe 3 bei sich.
+
+Vor der Begegnung
+Kryokapseln Crew
+Ihr erwacht allmählich aus eurem kryogenen Schlaf und öffnet schwerfällig die Augen. Der Kryokapsel-Raum ist in kaltes, gedämpftes Licht getaucht, das von den summenden Leuchtpaneelen an den Wänden ausgeht. Die Luft ist kühl und still, fast steril, mit einem Hauch von Metall und Antiseptika.
+Die Kryokapseln sind futuristische Sarkophage aus glattem Metall und Glas, durchzogen von dünnen Kabeln und Schläuchen, die leise zischen und blubbern. Ihr spürt noch die Nachwirkungen des langen Schlafes – eine Mischung aus Taubheit und prickelndem Erwachen.
+An den Wänden reihen sich schlichte, graue Spinde, jeder mit einer Plakette, die den Namen eines Crewmitglieds trägt. Einige Türen stehen offen, gewähren Einblick in persönliche Habseligkeiten: Kleidung, Uniformen, vielleicht ein Foto oder ein kleines Souvenir.
+Ein einsamer Schreibtisch steht in der Ecke, nahezu leer bis auf einen alten Notizblock und verstreute Stifte. Darüber hängt ein flimmerndes Holodisplay, das unleserliche Datenströme und Fehlermeldungen anzeigt.
+Während ihr euch orientiert, bemerkt ihr die Abwesenheit des Kapitäns. Normalerweise der Erste, der erwacht, ist seine Kryokapsel leer. Das Holodisplay zeigt keine Hinweise auf sein Erwachen. Ein ungutes Gefühl breitet sich aus, die Stille wird bedrückender. Wo ist der Kapitän? Die Ungewissheit lässt euch frösteln, während ihr versucht, seinen Verbleib zu klären.
+Im Mannschaftsraum erwacht die Gruppe. Hier finden sie Ihre Standardausrüstung so wie einen einheitlichen Overall. Beim genaueren durchsuchen des Schreibtisches kann der Zugangscode der Stufe 2 gefunden werden. Dieser ermöglicht es den Spielern sich in den meisten Bereichen des Schiffs frei zu bewegen.
+Zusätzlich ist zu vermerken, dass der Kapitän nicht aufzufinden ist. Sogar seine Kryokapsel ist geöffnet aber leer.
+Brücke
+Die Brücke des Raumschiffs ist ein Inbegriff futuristischer Eleganz und Funktionalität. Die sterile Umgebung strahlt eine klinische Sauberkeit aus, die von der hochmodernen Einrichtung betont wird. Überall sind Steuerelemente verteilt, deren verschiedene blinkende Lichter in einem hypnotischen Rhythmus pulsieren und die Kontrolle und Komplexität dieses fortschrittlichen Raumschiffs unterstreichen.
+Eine riesige, gewölbte Glasfront dominiert den Raum und bietet einen atemberaubenden, ungehinderten Blick in die unendlichen Weiten des Weltraums. Sterne glitzern in der Ferne wie Diamanten auf einem samt schwarzen Tuch, während gelegentlich ein Meteoritenschauer das Panorama durchkreuzt und einen Hauch von Bewegung in die sonst stille Leere bringt.
+Bei genauerem Hinsehen fällt ein besonders auffälliges Detail ins Auge: ein blau blinkender Knopf in der zentralen Konsole. Sein rhythmisches Leuchten hebt ihn aus der Vielzahl der anderen Lichter hervor und zieht förmlich den Blick auf sich. 
+Wird dieser Knopf gedrückt, erwacht der Bordcomputer zum Leben. Ein leises Summen durchdringt die Stille der Brücke, als die Maschinenstimme des Computers einen allgemeinen Lagebericht ausgibt.
+Zu beachten ist, dass die Spieler die Brücke nur verlassen können wenn Sie den Zugangscode Stufe 2 gefunden haben.
+Bordcomputer
+Der Bordcomputer bietet den Spieler zu beginn eine ToDo Liste von derer Aufgaben, die vor dem Andocken an Vancoover erledigt werden müssen. Dazu zählen:
+    • Prüfung des Protokolls
+    • Kontrollgang des Siedlerraums (Kryo-Kapseln der Siedler)
+    • Pausieren der KAR (KI-Assistent Roboter) im Lager und der Werkstatt
+    • Kalibrierung und Prüfung der Lebensunterstützungssysteme
+    • Antrieb auf Andockmodus umstellen
+    • Andockhaken und -kupplungen  vorbereiten
+    • Kontaktaufnahme zur Vancoover
+Die Kommunikation zum Bordcomputer ist nur in der Brücke möglich. Zusätzlich zur Analyse/ToDo Liste kann der Bordcomputer Auskunft über alle verfügbaren Räume geben die der ausgewiesenen Sicherheitsstufe der Spieler entspricht.
+Die Aufgaben lassen sich zumeist Problemlos lösen. Allerdings sind vermehrt Geräusche durch die Hülle des Schiffs zu hören. Gerade in den Abschnitten die direkt an der Außenseite liegen.
+Protokoll
+Das Protokoll enthält auf den ersten Blick keine Besonderheiten. Es zeigt einige passierte Meteorgürtel. Den Status der verschiedenen System über die letzten Jahre so wie den Status der KAR und die Info, dass es ein Update für diese gib. 
+Für jemanden mit Technischem Wissen oder ähnlichen Fähigkeiten sticht zudem hervor, dass es mehrere kleine Kollisionen vor gut etwa einer Woche gab. Weiter kann mit einer erschwerten Probe herausgefunden werden, dass nach dieser Kollisionen etwas an der Hülle kleben oder hängen geblieben ist und die automatischen Systeme diese Objekte nicht beseitigen konnte.
+KAR Zentrale
+Die KAR-Zentrale präsentiert sich als nüchterner, funktionaler Raum, der von einem klaren, minimalistischen Design dominiert wird. In der Mitte thront ein imposantes Terminal, das mit seiner schimmernden Oberfläche und den unzähligen blinkenden Lichtern den Mittelpunkt bildet. Die schlichte, graue Einrichtung lässt den Fokus auf die beeindruckende Technologie zu, die von hier aus alle KARs (KI-Assistenten-Roboter) steuert und verwaltet. An den Wänden befinden sich eingelassene, hochmoderne Bildschirme, die in Echtzeit Datenströme und Statusberichte der KARs anzeigen. Eine gedämpfte Beleuchtung schafft eine konzentrierte Atmosphäre, die die Effizienz und Präzision dieses neuralgischen Knotenpunkts unterstreicht. 
+KAR (KI-Assistent Roboter)
+Die KAR lassen sich allesamt in der KAR Zentrale pausieren. Dazu bedarf es lediglich der Zugangsstufe 2. Auf dem Weg zur Zentrale fallen vermehrt KARs auf, die ohne Aufgabe einfach mitten in den Räumen rum stehen. Dies ist ungewöhnlich da eigentlich immer etwas zu tun ist. Beim genaueren betrachten fällt eine Statusmeldung auf ‚Update verfügbar‘.
+Das Update ist nicht erforderlich. Wird das Update gestartet ist folgendes zu vermerken:
+Die KAR werden beim Kontakt mit der AL allen Menschen gegenüber feindlich.
+Nach dem Update arbeiten die KAR normal weiter und können bis zum AL Kontakt pausiert werden.
+Gewächshaus
+Die engen Gänge und hohen Reihen der Pflanzen erstrecken sich labyrinthartig vor dir, umhüllt von einer dichten, feuchten Luft, die von exotischen Düften erfüllt ist. Schatten tanzen durch das spärliche Licht der Lampen, während das leise Rascheln und Plätschern von Wasser eine unheilvolle Ruhe verbreitet.
+Wird das gesamte Gewächshaus durchsucht oder gelingt eine Probe auf Wahrnehmung kann in einem der Gänge eine Blutspur gefunden werden. Diese stammt vom Kapitän. Der Körper ist allerdings nicht aufzufinden.
+Siedlerraum
+Der Siedlerraum (Kryokapselraum der Siedler) ist dicht an dicht mit schimmernden, futuristischen Kapseln gefüllt, jede sorgfältig aufgereiht und bereit, ihre schlafenden Passagiere zu wecken. Unbekannte Gesichter sind in den durchsichtigen Abdeckungen zu erkennen, eingefroren in einem zeitlosen Schlaf, während ein sanftes, blaues Licht die Szenerie in eine unheimliche Ruhe taucht. Zwischen den Kapseln herrscht eine fast greifbare Stille, nur das leise Summen der Maschinen durchbricht die Lautlosigkeit. Ein schmaler Gang führt zu einem verwinkelten Treppenhaus, das sich in die tiefer gelegenen Abschnitte des Raumschiffs hinabwindet.
+Hier kann vorerst nichts gefunden werden. Allerdings kann nach kurzem Aufenthalt ein Geräusch wie Metall auf Metall vernommen werden. Dieses Stamm von unten weil ein KAR versucht durch den blockierten Durchgang zu gelangen.
+Maschinenraum
+Dunkelheit und stickige Luft dominieren diesen engen Raum, der von düsteren Schatten durchzogen ist. Die einzigen Lichtquellen sind schwach flackernde Kontrollleuchten, die unheimliche Schatten an die rostigen Wände werfen. Ein permanentes Brummen und das gelegentliche Zischen von Dampfrohren verstärken die bedrückende Atmosphäre. Der Geruch von altem Öl und Metall liegt schwer in der Luft und lässt das Atmen schwerfallen.
+Im Maschinenraum befindet Sich ein Terminal mit einer Anleitung. Allerdings ist die Komponenteninformation nicht aufrufbar wodurch die Spieler nicht wissen, welche Knopf zum starten und welcher zum stoppen ist. Durch eine erschwerte Probe auf Maschinen kann dies aber in Erfahrung gebracht werden.
+#Andockmodus aktivieren: Um den Andockbetrieb zu aktivieren muss zunächst dieser Modus im Terminal aktiviert werden. Anschließend müssen beide Triebwerke synchron neu gestartet werden. Dazu muss gleichzeitig zunächst der Betriebstop Schalter (Gelb) und anschließend der Startknopf (Rot) aktiviert werden. Zu beachten ist, dass die beiden Antriebe jeweils am linken und Rechten Ende des Raumes zu finden sind. Durch die Lauten Geräusche ist ein zurufen unmöglich.
+Kontakt zur Vancoover
+Sollten die Spieler versuchen die Versorgungsstation Vancoover zu kontaktieren ist eine direkte Kommunikation nicht möglich. Auf Nachforschung stellt sich heraus, dass das Kommunikationssystem gesperrt wurde. Diese Sperre kann mithilfe einer Probe auf Hacking gelöst werden oder wenn der Zugangscode Stufe 3 verwendet wird. Aber selbst danach ist eine Kommunikation nicht möglich da etwas die Sender stört.
+Diese sind außerhalb des Schiffs angebracht und wurden von einem Brutling mit Eiern zugesetzt.
+Die Spieler können ohne Kontakt weiterfliegen oder mittels EVA versuchen die Ursache zu lösen.
+Sollten alle Probleme gelöst sein, kann die Vancoover kontaktiert werden. Allerdings meldet sich dann nur ein KAR und würde beim andocken assistieren.
+EVA Raum / EVA Einsatz
+Der EVA-Raum ist ein klaustrophobischer, kalt beleuchteter Raum, in dem die Geräusche der Raumstation gedämpft erscheinen. In der Ecke befindet sich eine schwere Luke, die zur Leere des Weltraums führt. An der Wand hängt ein einsamer Raumanzug, sein lebloser Helm auf die Tür gerichtet, als ob er etwas oder jemanden erwarten würde. Der zweite Anzug fehlt auf unheimliche Weise, was eine beunruhigende Leere hinterlässt und Fragen aufwirft.
+Die Spieler können den EVA Raum nutzen um in die Leeren der Weltraum vorzustoßen. Allerdings ist nur 1 Anzug verfügbar. Der andere wurde vom Kapitän verwendet um die Kommunikationsprobleme selbst zu lösen.
+Sollte es zu einem EVA Einsatz kommen so wird der Brutling versuchen ins Innere zu gelangen. Dazu wird er zunächst in einem unbemerkten Moment in die Schleuse eindringen und von dort in den Lüftungsschacht. Direkt danach wird eine Druckverlust Warnung ausgegeben, da der Brutling die Sicherheitsschleuse durchbrochen hat.
+Druckverlust Warnung
+Hat der Brutling es geschafft in Innere zu gelangen und hat dabei einen Druckverlust ausgelöst folgt folgende Info:
+Ein plötzlicher, ohrenbetäubender Alarm durchdringt die Stille der Station, als ein unkontrollierter Druckverlust die Sensoren erreicht. Das System reagiert sofort, indem es das Schutzprotokoll einleitet, und schwere, metallische Türen fallen mit einem dröhnenden Knall zu. Die Beleuchtung wechselt auf ein unheilvolles rotes Notlicht, das flackernd die Schatten der verwinkelten Gänge beleuchtet. Ein Gefühl der Beklemmung macht sich breit, während die Temperatur spürbar sinkt und ein kalter Hauch durch die Luft strömt. Die Stille danach ist fast greifbar, nur unterbrochen vom gedämpften Zischen der sich schließenden Luftschleusen.
+Alle Gegenstände die sich in der Schleuse befanden wurden unwiderruflich vernichtet. Der Spieler der im EVA Anzug steckt, ist draußen gefangen und hat nur begrenzt Luft und Ladung für die Notfalldüsen. Die Spieler haben mindestens diese 3 Möglichkeiten, um den Spieler zu retten:
+    • KAR beauftragen den Spieler zu retten (Charisma oder Robotik)
+    • Dock verwenden (Risiko auf Schaden an Dock)
+    • Alarm am Bordcomputer überschreiben (Risiko auf Schaden an Bordcomputer)
+    • Mit Werkzeug aus Werkstatt die Schleuse manuell öffnen (Risiko auf Dauerhafte Blockade der Schleuse)
+Nach der Begegnung
+Brücke
+Inmitten der Düsternis zieht ein einsam flackernder, gelber Knopf auf dem Steuerpult alle Blicke auf sich. Sein pulsierendes Licht durchdringt die Schwärze wie ein leises, drohendes Warnsignal.
+Der Knopf erlaubt es den Spielern die Aufzeichnungen der Überwachungskameras zu begutachten. Darauf ist zu erkennen, dass ein Wesen (Brutling) ins Innere des Schiffs gelangt.
+Siedlerraum
+Ihr betretet die düstere Siedlerkammer, in der der frostige Hauch der Kryokapseln die Luft erfüllt. Eine der Kapseln steht offen, leer, und der vermisste Siedler scheint spurlos verschwunden. Doch in einer schattigen Ecke erregt eine unheimliche Bewegung eure Aufmerksamkeit. Dort kauert eine Kreatur, die an den Überresten des Siedlers nagt, ihre Augen glühend vor hungriger Gier. Es streift blitzartig seine Haut ab und flüchtet in die Lüftungsanlage.
