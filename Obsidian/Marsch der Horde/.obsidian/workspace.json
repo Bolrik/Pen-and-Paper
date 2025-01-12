@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "538c1605921daeef",
+    "type": "split",
+    "children": [
+      {
+        "id": "878caaff402c4578",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc77e0f4865932eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marsch der Horde.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marsch der Horde"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76080313ef470df5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f529d666930626c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e425b0af746fa31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3aa66de11269e792",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d1268109b663a7b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "right": {
+    "id": "84ed7240121712c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1129c1ca49930922",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6d915f9ef8c36f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Orte/Tankstelle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tankstelle"
+            }
+          },
+          {
+            "id": "b05b59dabad917e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Orte/Tankstelle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tankstelle"
+            }
+          },
+          {
+            "id": "2de976538255b12d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3aec940850d58647",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Marsch der Horde.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Marsch der Horde"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bc77e0f4865932eb",
+  "lastOpenFiles": [
+    "Zombie.md",
+    "Marsch der Horde.md",
+    "Orte/Tankstelle.md",
+    "Bilder",
+    "Bilder/Tankstelle.png",
+    "Bilder/Karte.png",
+    "Orte/Sägewerk.md",
+    "Orte/Engpass.md",
+    "Orte/Bachlingen.md",
+    "Orte/Apotheke.md",
+    "Abschluss/Abschluss - Transformation.md",
+    "Abschluss/Abenteuer-Abschluss.md",
+    "Regeln/Transformation.md",
+    "Abschluss/Abschluss Bachlingen - Gut.md",
+    "Abschluss/Abschluss Bachlingen - Sadistisch.md",
+    "Abschluss/Abschluss Bachlingen - Schlecht.md",
+    "Orte/Gabelung (Bachlingen).md",
+    "Abschluss",
+    "sdjh.md",
+    "NPCs/Andere/David Kern.md",
+    "NPCs/Andere",
+    "Heaven.md",
+    "Orte/Haven.md",
+    "Horde.md",
+    "Regeln/Horde-Mechanik.md",
+    "NPCs/Feindlich/Zombies/Schlurfer.md",
+    "NPCs/Feindlich/Zombies/Laurer.md",
+    "NPCs/Feindlich/Zombies",
+    "NPCs/Feindlich",
+    "NPCs",
+    "Regeln",
+    "Orte"
+  ]
+}
