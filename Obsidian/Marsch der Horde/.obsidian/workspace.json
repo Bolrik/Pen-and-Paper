@@ -11,14 +11,24 @@
             "id": "bc77e0f4865932eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Marsch der Horde.md",
-                "mode": "source",
-                "source": false
+                "file": "Bilder/Karte.png"
               },
-              "icon": "lucide-file",
-              "title": "Marsch der Horde"
+              "icon": "lucide-image",
+              "title": "Karte"
+            }
+          },
+          {
+            "id": "57dafb13554e92a1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Bilder/Karte.png"
+              },
+              "icon": "lucide-image",
+              "title": "Karte"
             }
           }
         ]
@@ -93,17 +103,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orte/Tankstelle.md",
+                "file": "Bilder/Karte.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tankstelle"
+              "title": "Backlinks for Karte"
             }
           },
           {
@@ -112,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orte/Tankstelle.md",
+                "file": "Marsch der Horde.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tankstelle"
+              "title": "Outgoing links from Marsch der Horde"
             }
           },
           {
@@ -145,8 +155,7 @@
               "title": "Outline of Marsch der Horde"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,35 +171,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc77e0f4865932eb",
+  "active": "1e425b0af746fa31",
   "lastOpenFiles": [
-    "Zombie.md",
+    "Wander Ereignisse.md",
     "Marsch der Horde.md",
-    "Orte/Tankstelle.md",
-    "Bilder",
-    "Bilder/Tankstelle.png",
+    "Orte/Kreuzung am See.md",
     "Bilder/Karte.png",
+    "NPCs/Feindlich/Handlanger.md",
+    "NPCs/Feindlich/Zombies/Laurer.md",
     "Orte/Sägewerk.md",
     "Orte/Engpass.md",
-    "Orte/Bachlingen.md",
+    "Orte/Gabelung (Bachlingen).md",
     "Orte/Apotheke.md",
+    "Orte/Tankstelle.md",
+    "Bilder/Tankstelle.png",
+    "Orte/Siedlungen/Bachlingen.md",
+    "Orte/Siedlungen/Haven.md",
+    "Orte/Siedlungen",
+    "NPCs/Feindlich/Zombies/Infiziertes Reh.md",
+    "NPCs/Feindlich/Zombies/Schlurfer.md",
+    "NPCs/Feindlich/Zombies/Klops.md",
+    "Ereignisse",
+    "NPCs/Andere/Anna Goetterus.md",
+    "NPCs/Andere/Gerd Halmer.md",
+    "NPCs/Andere/David Kern.md",
+    "Zombie.md",
+    "^27.05.2037.md",
+    "Bilder",
     "Abschluss/Abschluss - Transformation.md",
     "Abschluss/Abenteuer-Abschluss.md",
     "Regeln/Transformation.md",
     "Abschluss/Abschluss Bachlingen - Gut.md",
     "Abschluss/Abschluss Bachlingen - Sadistisch.md",
-    "Abschluss/Abschluss Bachlingen - Schlecht.md",
-    "Orte/Gabelung (Bachlingen).md",
     "Abschluss",
-    "sdjh.md",
-    "NPCs/Andere/David Kern.md",
     "NPCs/Andere",
-    "Heaven.md",
-    "Orte/Haven.md",
-    "Horde.md",
-    "Regeln/Horde-Mechanik.md",
-    "NPCs/Feindlich/Zombies/Schlurfer.md",
-    "NPCs/Feindlich/Zombies/Laurer.md",
     "NPCs/Feindlich/Zombies",
     "NPCs/Feindlich",
     "NPCs",

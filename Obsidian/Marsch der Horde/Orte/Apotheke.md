@@ -1,4 +1,4 @@
-*Südlich der [[Tankstelle]] befinden sich 5 einzelne Häuser darunter auch eine Apotheke. Eines der Gebäude wird von einem ‚**Laurer**‘ bewohnt der versuchen wird die Spieler aus dem Hinterhalt anzugreifen.*
+*Südlich der [[Tankstelle]] befinden sich 5 einzelne Häuser darunter auch eine Apotheke. Eines der Gebäude wird von einem ‚**[[Laurer]]**‘ bewohnt der versuchen wird die Spieler aus dem Hinterhalt anzugreifen.*
 ## Handlung
 
 >[!attention]- Übersicht
@@ -8,8 +8,13 @@
 >*Ihr erreicht die ruhige, verstreut liegende Siedlung Taunus. Der Ort wirkt auf den ersten Blick unscheinbar – ein paar einfache Gebäude, darunter eine kleine Apotheke, reihen sich entlang der Hauptstraße. Der Wind trägt Euch ein seltsam süßen Duft entgegen. Das letzte Haus der Reihe sticht allerdings sofort aus der bescheidenen Kulisse hervor: Ein altes Einfamilienhaus, dessen Türen und Fenster mit schweren Holzbrettern vernagelt wurden – von außen.*
 
 **Lärm in der nähe des Laurer-Hauses:** Lärm lässt den darin lebenden **[[Laurer]]** erwachen der ab da jagt auf die Spieler machen wird.
-**Umsehen in der Apotheke:** Es wird schnell klar, dass hier nichts mehr von Wert zu holen ist.
+### In der Apotheke
+*Die Apotheke scheint nicht nur auf den ersten Blick völlig leer geplündert. Allerdings hört Ihr aus dem inneren verschiedene Geräusche.*
+
+**Umsehen in der Apotheke:** Es wird schnell klar, dass hier nichts mehr von Wert ist.
 **\[Sinne\]:** In einem versteckten Fach können Antibiotika gefunden werden.
+>[!error] Fehlschlag
+>Ein [[Klops]] kommt aus einer Seitentür getaumelt und bekommt den Erstschlag.
 
 ### Laurer Haus
 >[!attention]- Übersicht

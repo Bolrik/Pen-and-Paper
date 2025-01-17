@@ -1,9 +1,12 @@
-Es ist Sommer und das Abenteuer beginnt früh morgens gegen 9 Uhr.
+
+| Startzeitpunkt | 05.06.2037 |
+| -------------- | ---------- |
+Es ist Sommer und das Abenteuer beginnt morgens gegen 9 Uhr.
 
 
-_Seit geraumer Zeit nun seid Ihr einfache Arbeiter in [[Haven]]. Das Leben hier ist sicher, keine Frage, aber das war es dann auch schon. Die Tage sind hart aber am Ende des Tages habt Ihr doch immerhin einen eigenen Bereich für Euch und ein Bett. Nichts, was hier jedem zusteht._
+_Seit geraumer Zeit seid Ihr einfache Arbeiter in [[Haven]]. Das Leben hier ist sicher, keine Frage, aber das war es dann auch schon. Die Tage sind hart aber am Ende des Tages habt Ihr doch immerhin einen eigenen Bereich für Euch und ein Bett. Nichts, was hier jedem zusteht._
 
-_Doch Ihr wollt mehr. Eine eigene Wohnung wie es dem engen Kreis der Gemeinschaft gebührt. Und wie das Schicksal es so will, steht das Tor dorthin nun offen. Ihr findet Euch zusammen mit bekannten Gesichtern vor dem Tor zum 'Kern', dem Siedlungsverwaltungsgebäude, um finale Details zu klären._
+_Doch Ihr wollt mehr. Eine eigene Wohnung wie es dem engen Kreis der Gemeinschaft gebührt. Und wie das Schicksal es so will, steht das Tor dorthin nun offen. Ihr findet Euch zusammen mit bekannten Gesichtern vor dem Tor zum 'Kern', dem Verwaltungsgebäude, um finale Details zu Eurer Mission zu klären._
 
 Sonderregel: [[Horde-Mechanik]]
 
@@ -30,32 +33,39 @@ Je nach Frage gibt es noch weitere Infos:
 >[!caution]- Das Wahre Ziel
 > - Der Plan ist tatsächlich, die Horde direkt in eine friedliche Siedlung [[Bachlingen]] im Südosten zu lenken
 > - Die Anführer von _Haven_ wissen, dass sich in der Zielgemeinschaft keine nennenswerte Verteidigung befindet, sodass der Angriff der Horde ihre Zerstörung garantiert
-> - Grund dafür, [[Bachlingen]] will kein 'Schutztribut' leisten
+> - Grund dafür, [[Bachlingen]] will kein 'Schutzvertrag' eingehen [[Bachlingen#27.05.2037]]
+> - [[David Kern|David]] weiß von alle dem nichts
 
 ### Ressourcenverteilung
 
 - Die Spieler erhalten einfache Mittel, die in der Welt leicht zugänglich sind:
     - 2 **Lärmemitter:** Kleine Sirenen, improvisiert aus alten Lautsprechern oder Alarmanlagen.
       Können dazu verwendet werden, um die Horde entweder zu 'halten' oder in eine Richtung zu locken.
-    - 5 **Pyrotechnik:** Knallkörper oder Rauchgranaten, die einfach herzustellen oder zu finden sind. Sie haben kleineren Einfluss auf die Horde und können leichte Wegänderungen verursachen.
+    - 5 **Pyrotechnik:** Knallkörper oder Rauchgranaten, die einfach herzustellen oder zu finden sind. Sie haben kleineren Einfluss auf die Horde und können leichte Weg Änderungen verursachen.
       Verändern zudem den Horde-Einfluss: 5 | 0
     - **Werkzeuge:** Vorschlaghämmer, Metallstangen oder ähnliches, um Geräuschquellen wie Türen oder Fahrzeuge manuell auszulösen.
 ### Das Festmahl
 Nach der Besprechung werden die Spieler in einen kleinen Saal geladen um dort ein Festmahl zu genießen. Ein kleine ‚Wertschätzung‘ vorab.
 
+*David führt euch wortlos durch einen schmalen Gang und öffnet eine schwere Holztür. Dahinter liegt ein festlich gedeckter Raum. Eine massive Tafel, beladen mit dampfenden Speisen, frischem Brot, Gemüse und auffallend viel Fleisch, dominiert den Raum. Der würzige Duft hängt schwer in der Luft, während flackernde Kerzen tanzende Schatten an die Wände werfen.
+"Als vorzeitige Entlohnung lädt der Rat Euch ein, Euch hier die Bäuche voll zu schlagen. Ich werde desweilen an anderer Stelle benötigt. Viel Erfolg."*
+
 **[Kochen/Jagen]** Es ist ziemlich verwunderlich so viel Fleisch anzubieten.
 
 >[!attention]- Das Essen
->Die Nahrung besteht z.T. aus infiziertem Fleisch und wird bei Verzehr die [[Transformation]] starten.
+>Die Nahrung besteht z.T. aus infiziertem Fleisch und wird bei Verzehr die [[Transformation]] starten. Spricht ein Spieler über die üppige Mahlzeit und fragt nach deren Herkunft werden genauere Fragen abgeschmettert. [[David Kern]] Kann dazu nichts beitragen ihm kommt es aber komisch vor, dass so groß aufgedeckt wurde. Dieser verabschiedet sich auch zeitnah zu einem weiteren Vorhaben.
 
 # Aufbruch
 
 >[!attention]- Ablauf
 >Die Spieler können frei Entscheiden, was sie nun machen wollen. Sollte ein vorhaben aber zu lange dauern, sollten sie an die zeitliche Beschränkung erinnert werden.
 >
->Den Spielern ist folgendes Bekannt:
->Truppen/Bewohner aus [[Haven]] sind verpflichtet bei längeren Vorhaben im Außenbereich Schwarze Kleidung mit brauner oder grüner Armbinde zu tragen.
+>>[!error] Den Spielern ist folgendes Bekannt:
+>- Truppen/Bewohner aus [[Haven]] sind verpflichtet bei längeren Vorhaben im Außenbereich Schwarze Kleidung mit grüner Armbinde zu tragen.
+>- Einwohner die in einen Konflikt mit Infizierten gekommen sind müssen auf Biss oder Kratzwunden untersucht werden
+>- Preisgeben der Herkunft ist untersagt
 
+**Bevor die Spieler Haven verlassen**: Es kommt ein kleiner Junge [[Ben Hilte]] zu einem der Spieler angerannt. Der Spieler kennt Ben. Ben freut sich darüber, dass der Spieler jetzt die Chance auf mehr hat.
 ## **Wichtige Orte Überblick**
 
 ### [[Tankstelle]]
@@ -64,15 +74,17 @@ Nach der Besprechung werden die Spieler in einen kleinen Saal geladen um dort ei
 
 ### [[Sägewerk]]
 
+### [[Kreuzung am See]]
+
 ### [[Engpass]]
 
 ### [[Gabelung (Bachlingen)]]
 
 ### [[Bachlingen]]
 
->[!error] Erinnerung - Transformation!
+>[!error] Erinnerung - [[Transformation]]!
 
+>[!info] Zwischen den Stationen [[Wander Ereignisse]]!
 
-
-![[Karte.png]]
+>[!info] [[Karte.png|Karte]]
 

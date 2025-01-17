@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "71c9360320d1ddfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9e7db66a96d22fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8025f990f4a65842",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ae41d65cbbfd68b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bee3900faa42447",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2abef70cdb4c6f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c2224a54e97bf33c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ce8df3ef5b6bb74a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d42899eea3595939",
+    "type": "split",
+    "children": [
+      {
+        "id": "95814268be27a8c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6db4f5b61688e2a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7b6d961e63330b69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8f3ab0fa23fc8da7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4007fd92feb5c291",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8025f990f4a65842",
+  "lastOpenFiles": [
+    "Regelwerk/Kernwert/Speziell/Sinne.md",
+    "Regelwerk/Spezialaktionen/Spezialaktion.md",
+    "Regelwerk/Charaktererstellung/Charaktererstellung.md",
+    "Kernwertpool.md",
+    "Regelwerk/Charaktererstellung/Lernpunkte.md",
+    "Regelwerk/Lebenspunkt.md",
+    "Fähigkeit.md",
+    "Regelwerk/Glück/Ermutigen.md",
+    "Regelwerk/Kernwert/Speziell/Intelligenz.md",
+    "Fähigkeitspunkte.md",
+    "Regelwerk/Spezialaktionen/Nahkampf/Entwaffnen.md",
+    "Regelwerk/Charaktererstellung",
+    "Regelwerk/Fähigkeiten/Fähigkeiten.md",
+    "Regelwerk/Glück/Schicksalspunkte.md",
+    "Regelwerk/Glück/Glückswurf.md",
+    "Willkommen.md",
+    "Regelwerk/Glück",
+    "Regelwerk/Probe.md",
+    "Regelwerk/Erschöpfung.md",
+    "Regelwerk/Listen und Werte/Liste Fähigkeiten.md",
+    "Regelwerk/Fähigkeiten/Fähigkeitsliste.md",
+    "Regelwerk/Listen und Werte/Schadenswerte.md",
+    "Regelwerk/Kampf/Waffentalente.md",
+    "Regelwerk/Kampf/Angriff und Verteidigung.md",
+    "Regelwerk/Kampf/Kampf.md",
+    "Regelwerk/Kernwert/Kernwert.md",
+    "Regelwerk/Spezialaktionen/Nahkampf/Betäuben.md",
+    "Regelwerk/Listen und Werte/List Spezialaktionen.md",
+    "Regelwerk/Statuseffekte/Liste",
+    "Regelwerk/Listen und Werte",
+    "Regelwerk/Statuseffekte",
+    "Regelwerk/Erschöpfung",
+    "Regelwerk/Kampf",
+    "Regelwerk/Spezialaktionen/Bonus",
+    "Regelwerk/Spezialaktionen/Fernkampf",
+    "Regelwerk/Spezialaktionen/Nahkampf",
+    "Untitled/Untitled.canvas",
+    "Marsch der Horde/Bilder/Tankstelle.png",
+    "Marsch der Horde/Bilder/Karte.png"
+  ]
+}

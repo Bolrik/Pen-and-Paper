@@ -23,7 +23,7 @@ Wurde niemand abgestellt um die Horde zu 'halten'
 ## Am Sägewerk
 
 >[!attention]- Übersicht
->Am Sägewerk treffen die Spieler auf einen Bewohner von Bachlingen ‚[[Gerd Halmer]]‘.
+>Am Sägewerk treffen die Spieler auf einen Bewohner von [[Bachlingen]] ‚[[Gerd Halmer]]‘.
 >Er soll die Horde auf die Autobahn und dann Richtung Süden leiten.
 >Er selbst ist stark eingeschüchtert und misstrauisch und spricht nie direkt mit den Spielern (außer er wurde gefangen etc.) sondern versteckt sich im inneren
 >Er kann mit passenden Sozialen-Mitteln überzeugt werden seine Absichten offen zu legen.

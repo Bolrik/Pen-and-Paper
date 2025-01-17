@@ -1,4 +1,4 @@
-*Entlang der Autobahn befindet sich eine Ausfahrt mit integrierter Tankstelle. Dies wäre ein idealer Ort, um die [[Horde-Mechanik|Horde]] umzulenken und nach Süden zu führen.*
+*Entlang der Autobahn befindet sich eine Tankstellen-Ausfahrt. Dies wäre ein idealer Ort, um die [[Horde-Mechanik|Horde]] umzulenken und nach Süden zu führen.*
 ## Handlung
 
 >[!attention]- Übersicht
@@ -9,13 +9,12 @@
 
 Darüber hinaus befindet sich in der Tankstelle ein Sprengsatz aus [[Bachlingen]] der dort platziert wurde, **um die [[Horde-Mechanik|Horde]] zu zerstreuen**. Dieser wird gezündet, wenn die Horde am Tankstellenhäuschen entlang zieht. Der Sprengsatz ist an ein Funkgerät gekoppelt und kann sehr einfach entschärft werden.  
 **\[Sprengstoff + 40\] \[Intelligenz\]:** Der Sprengsatz kann als trivial identifiziert werden und ohne Probleme entschärft werden.
-**Umsehen im Tankhäuschen \[Sinne\]:** Ihr findet eine Notiz. Die Notiz erklärt den nutzen des Sprengsatzes (Ablenken der Horde zum Sägewerk) und bittet diesen in Takt zu lassen. Unterzeichnet von ‚**[[Anna Goetterus]]**‘ aus [[Bachlingen]].
+**Umsehen im Tankhäuschen \[Sinne\]:** Ihr findet eine Notiz. Die Notiz erklärt den nutzen des Sprengsatzes (Ablenken der Horde zum [[Sägewerk]]) und bittet diesen in Takt zu lassen. Unterzeichnet von ‚**[[Anna Goetterus]]**‘ aus [[Bachlingen]].
 
 ### Einfluss auf die Horde:
 
 | Wurde die Auffahrt zur Tankstelle nicht freigeräumt | -40 | 0   |
 | --------------------------------------------------- | --- | --- |
-| Wurden nicht ausreichend Lärmmittel genutzt         | -25 | 0   |
 | Wurde der Sprengsatz ignoriert                      | 15  | 20  |
 
 ![[Tankstelle.png]]

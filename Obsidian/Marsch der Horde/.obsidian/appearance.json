@@ -1,3 +1,9 @@
 {
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "accentColor": "#8d5cff",
+  "interfaceFontFamily": "Consolas",
+  "textFontFamily": "Consolas",
+  "monospaceFontFamily": "Consolas",
+  "baseFontSizeAction": false,
+  "baseFontSize": 16
 }

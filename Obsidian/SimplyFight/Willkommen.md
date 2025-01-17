@@ -1,0 +1,5 @@
+[[Kernwert]]
+
+[[Fähigkeiten]]
+
+[[Spezialaktion]]

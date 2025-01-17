@@ -1,1 +1,0 @@
-*Eine kleine friedliche Gemeinschaft verborgen zwischen Berg und Wald. Sie haben Haven ein Schutzvertrag abgelehnt und sollen jetzt Geheim vernichtet werden.*
