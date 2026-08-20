@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "878caaff402c4578",
+        "id": "36b3ec50b04af098",
         "type": "tabs",
         "children": [
           {
-            "id": "bc77e0f4865932eb",
+            "id": "f73f27ebd222fadc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Bilder/Karte.png"
+                "file": "Marsch der Horde.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Karte"
-            }
-          },
-          {
-            "id": "57dafb13554e92a1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Bilder/Karte.png"
-              },
-              "icon": "lucide-image",
-              "title": "Karte"
+              "icon": "lucide-file",
+              "title": "Marsch der Horde"
             }
           }
         ]
@@ -50,10 +40,13 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -103,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bilder/Karte.png",
+                "file": "Marsch der Horde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +106,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Karte"
+              "title": "Rückverweise"
             }
           },
           {
@@ -149,10 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marsch der Horde.md"
+                "file": "Wander Ereignisse.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Marsch der Horde"
+              "title": "Outline of Wander Ereignisse"
             }
           }
         ]
@@ -163,32 +159,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
     }
   },
-  "active": "1e425b0af746fa31",
+  "active": "f73f27ebd222fadc",
   "lastOpenFiles": [
+    "Orte/Apotheke.md",
+    "Orte/Siedlungen/Haven.md",
+    "Orte/Siedlungen/Bachlingen.md",
+    "Bilder/Karte.png",
     "Wander Ereignisse.md",
+    "NPCs/Feindlich/Zombies/Laurer.md",
+    "NPCs/Feindlich/Zombies/Infiziertes Reh.md",
     "Marsch der Horde.md",
     "Orte/Kreuzung am See.md",
-    "Bilder/Karte.png",
     "NPCs/Feindlich/Handlanger.md",
-    "NPCs/Feindlich/Zombies/Laurer.md",
     "Orte/Sägewerk.md",
     "Orte/Engpass.md",
     "Orte/Gabelung (Bachlingen).md",
-    "Orte/Apotheke.md",
     "Orte/Tankstelle.md",
     "Bilder/Tankstelle.png",
-    "Orte/Siedlungen/Bachlingen.md",
-    "Orte/Siedlungen/Haven.md",
     "Orte/Siedlungen",
-    "NPCs/Feindlich/Zombies/Infiziertes Reh.md",
     "NPCs/Feindlich/Zombies/Schlurfer.md",
     "NPCs/Feindlich/Zombies/Klops.md",
     "Ereignisse",

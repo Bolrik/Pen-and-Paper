@@ -1,0 +1,1 @@
+1307-06-22: [[Weiße Mähne]] ist nahe der Stadt [[Zal'Zhabar]] in einem Fluss auf Grund gelaufen. ^evt00001

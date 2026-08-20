@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1755459562355,
+      "title": "Default Graph",
+      "options": {
+        "collapse-filter": true,
+        "search": "-tag:#Meta",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 0.98046875,
+        "lineSizeMultiplier": 1.00598958333333,
+        "collapse-forces": true,
+        "centerStrength": 0.299479166666667,
+        "repelStrength": 9.01041666666667,
+        "linkStrength": 1,
+        "linkDistance": 156,
+        "scale": 1.000000000000009,
+        "close": false
+      }
+    }
+  ]
+}

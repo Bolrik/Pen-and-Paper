@@ -1,0 +1,30 @@
+{
+  "collapse-filter": true,
+  "search": "-tag:#Meta ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Ort  ",
+      "color": {
+        "a": 1,
+        "rgb": 4285548
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.98046875,
+  "lineSizeMultiplier": 1.00598958333333,
+  "collapse-forces": true,
+  "centerStrength": 0.299479166666667,
+  "repelStrength": 9.01041666666667,
+  "linkStrength": 1,
+  "linkDistance": 156,
+  "scale": 0.3628873693012178,
+  "close": false
+}

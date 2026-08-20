@@ -23,4 +23,4 @@ Die folgenden Wert sind nur ein Leitsatz aber keineswegs ein muss.
 | Magisch                    | + 1W10? auf Basis  |                            |
 
 
-[^*1]: Jeglicher Schaden aller Nahkampfwaffen profitieren vom Kernwert-Zusatzeffekt ‚Stärke‘
+[^*1]: Jeglicher Schaden aller Nahkampfwaffen profitieren vom Kernwert-Passiveffekt ‚Stärke‘

@@ -1,0 +1,359 @@
+{
+  "main": {
+    "id": "538c1605921daeef",
+    "type": "split",
+    "children": [
+      {
+        "id": "36b3ec50b04af098",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f73f27ebd222fadc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orte/Anwesen von Seriva.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anwesen von Seriva"
+            }
+          },
+          {
+            "id": "0fa40222fc4e9c06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orte/Anwesen von Seriva.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anwesen von Seriva"
+            }
+          },
+          {
+            "id": "d7058bd53757a438",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orte/Gemächer von Eric Fennhart.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gemächer von Eric Fennhart"
+            }
+          },
+          {
+            "id": "c39de029fc601446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beweise/Beweis Wach-Routine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Beweis Wach-Routine"
+            }
+          },
+          {
+            "id": "676005580247db83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POIs/Schmiede 'Brenneisen'.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Schmiede 'Brenneisen'"
+            }
+          },
+          {
+            "id": "824466a450cb1a0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personen/Jorric Blumfeld.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jorric Blumfeld"
+            }
+          },
+          {
+            "id": "22c0e6e5643a162b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beweise/Sichtung von Tennan Blumfeld.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sichtung von Tennan Blumfeld"
+            }
+          },
+          {
+            "id": "fa35a23c1f070818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beweise/Brandmal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brandmal"
+            }
+          },
+          {
+            "id": "d8dde8f1db28a607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orte/Turnierplatz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Turnierplatz"
+            }
+          },
+          {
+            "id": "bc4436eabaf0bd4b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "a71a2a06686e7a23",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled 1.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "c1fcda7ae0583a19",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Versionshinweise 1.12.7"
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76080313ef470df5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f529d666930626c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e425b0af746fa31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "3aa66de11269e792",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d1268109b663a7b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5
+  },
+  "right": {
+    "id": "84ed7240121712c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1129c1ca49930922",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6d915f9ef8c36f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise"
+            }
+          },
+          {
+            "id": "b05b59dabad917e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Orte/Anwesen von Seriva.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Anwesen von Seriva"
+            }
+          },
+          {
+            "id": "2de976538255b12d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3aec940850d58647",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personen/Tennan Blumfeld.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tennan Blumfeld"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
+    }
+  },
+  "active": "c1fcda7ae0583a19",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "Untitled 1.base",
+    "Events/Ertappt.md",
+    "Spickzettel.md",
+    "Verdächtige.md",
+    "Personen/Gerd Schreibling.md",
+    "Spieler-Charaktere.md",
+    "Bergfurt.png",
+    "Beweise und Gerüchte/Zerknüllter Brief an Seriva.md",
+    "Orte/Anwesen von Seriva.md",
+    "Beweise und Gerüchte/Sitzungsprotokoll 'Magie-Forschung'.md",
+    "Beweise und Gerüchte/Versiegelte Bauanträge.md",
+    "Beweise und Gerüchte/Sichtung von Tennan Blumfeld.md",
+    "Beweise und Gerüchte/Schreiben von Eric an Seriva.md",
+    "Beweise und Gerüchte/Plan der Wach-Routine.md",
+    "Beweise und Gerüchte/Für die falsche Dynastie.md",
+    "Beweise und Gerüchte/Es gab einen Mittelmann.md",
+    "Beweise und Gerüchte/Erika geht spät Abends in die Stadt.md",
+    "Beweise und Gerüchte/Eheprobleme.md",
+    "Beweise und Gerüchte/Drohschreiben.md",
+    "Beweise und Gerüchte/Die geheime Lieferung.md",
+    "Beweise und Gerüchte/Der Attentäter im noblen Schuppen.md",
+    "Beweise und Gerüchte/Brandmal.md",
+    "Beweise und Gerüchte/Besuch der Blumfeld Familien.md",
+    "Orte/Brüdergemeinschaft Unterzinken.md",
+    "Orte/Die Ratskammer.md",
+    "Orte/Brenneisen (Schmiede).md",
+    "Templates/Event.md",
+    "Templates",
+    "Begegnungen",
+    "Items und Wissen",
+    "POIs",
+    "Events",
+    "Orte/Untitled.base",
+    "Beweise und Gerüchte",
+    "Personen",
+    "Bilder/Karte.png",
+    "Bilder/Tankstelle.png"
+  ]
+}

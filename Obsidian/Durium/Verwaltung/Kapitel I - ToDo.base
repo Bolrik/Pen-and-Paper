@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Tabelle
+    order:
+      - file.name
+      - file.tags
+      - file.folder
+    sort:
+      - property: file.tags
+        direction: ASC
+    markers: number
+    indentProperties: false

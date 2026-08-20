@@ -1,0 +1,1 @@
+Ein einfacher Schmied der in der Tatnacht im Suff seine Schmied abgebrannt hat.
