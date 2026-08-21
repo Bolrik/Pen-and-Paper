@@ -1,0 +1,1 @@
+Kultur: Sehen es als Schwäche, Hilfe anzunehmen

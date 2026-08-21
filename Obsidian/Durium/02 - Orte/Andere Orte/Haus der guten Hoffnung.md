@@ -6,8 +6,12 @@ tags:
 Das Waisenhaus [[Haus der guten Hoffnung]] ist hauptsächlich eine selbst versorgende Einrichtung. Sie wird vom [[Orden der Dreieinigkeit]] genutzt um Kinder aufzunehmen die Ihre Eltern verloren haben. Sie werden unter den [[Orden der Dreieinigkeit#Grundsätze|Grundsätzen]] des Ordens aufgezogen und auf das spätere Leben vorbereitet.
 ###### Population
 ~30 - 50 zumeist Kinder
+###### Führende Kultur
+- [[Menschen]]
 ###### Vorsteher
 - [[Orden der Dreieinigkeit]] durch [[Hausmutter Elise]]
+#### Beziehung
+
 #### Ökonomie
 ###### Verkauf
 - Weintrauben, Holz Utensilien, Stoffe und Wolle

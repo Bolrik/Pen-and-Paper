@@ -6,8 +6,12 @@ tags:
 
 ###### Population
 - *Welche Personen halten sich hier dauerhaft oder regelmäßig auf? Bei größeren Orten kann zusätzlich die ungefähre Einwohnerzahl angegeben werden.*
+###### Führende Kultur
+- *Nach welcher Kultur lebt die Mehrzahl der Einwohner hier.*
 ###### Vorsteher
 - *Wer ist für diesen Ort verantwortlich oder hat hier die Kontrolle?*
+#### Beziehung
+- *In welche Beziehungsstufe stehen die Spieler zu diesem Ort oder Teilgruppen von diesem.*
 #### Ökonomie
 - *Wie versorgt sich dieser Ort und worauf basiert seine wirtschaftliche Bedeutung?*
 ###### Verkauf

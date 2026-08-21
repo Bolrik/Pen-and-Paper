@@ -13,9 +13,9 @@ tags:
 #### Um Unterstützung bitten
 Die [[Hausmutter Elise]] hat vergessen den Spielern Ihr Unterstützungspaket zu geben. Dies können sie erfragen.
 > [!NOTE] Hilfspaket
-> Umfasst 1 Silbertaler pro Spieler
-#### ☼ Abreise
-Sobald die Spieler in die Kutsche einsteigen, kommt [[Kachee Liuk]] angerannt und gibt den das [[#Um Unterstützung bitten|Hilfspaket]] sofern sie dies nicht erhalten haben. Zudem wünscht er ihnen alles gute bevor er mit direkten Worten zurück gepfiffen wird.
+> Umfasst 1 Taler ([[Währung]]) pro Spieler
+#### Abreise
+Sobald die Spieler in die Kutsche einsteigen, kommt [[Kachee Liuk]] angerannt und gibt ihnen das [[#Um Unterstützung bitten|Hilfspaket]] sofern sie dies nicht erhalten haben. Zudem wünscht er ihnen alles gute bevor er mit direkten Worten zurück gepfiffen wird.
 
 #### Übergang
-- Die Spieler können diese Szene nur mit der Kutsche verlassen. Weiterer Aufenthalt im Waisenhaus wird geduldet doch werden sie stets daran erinnert, dass sie los müssen.
+- Die Spieler können diese Szene nur mit der Kutsche verlassen (führt zu [[02 - Zal'Zhabar]]. Weiterer Aufenthalt im Waisenhaus wird geduldet doch werden sie stets daran erinnert, dass sie los müssen.
